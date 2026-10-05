@@ -1,0 +1,34 @@
+ssh -i ~/.ssh/ecommerce-bda-key.pem ubuntu@13.200.150.70 <<'REMOTE'
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export HADOOP_HOME=$HOME/hadoop-3.3.6
+export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
+export PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+
+echo "===== STARTING HADOOP ====="
+start-dfs.sh
+start-yarn.sh
+
+sleep 5
+
+echo "===== HADOOP SERVICES ====="
+jps
+
+echo "===== STARTING STREAMLIT ====="
+cd ~/ecommerce_dashboard
+source ~/ecommerce_dashboard/streamlit_env/bin/activate
+
+pkill -f "streamlit run" 2>/dev/null || true
+
+nohup streamlit run app.py \
+  --server.address 0.0.0.0 \
+  --server.port 8501 \
+  > ~/streamlit.log 2>&1 &
+
+sleep 5
+
+echo "===== STREAMLIT CHECK ====="
+ss -ltnp | grep 8501 || true
+
+echo "===== STREAMLIT LOG ====="
+tail -10 ~/streamlit.log
+REMOTE

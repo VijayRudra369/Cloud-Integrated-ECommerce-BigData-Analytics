@@ -1,0 +1,1001 @@
+Product,Category,Quantity,Price,Date,Customer,City
+Foam Roller,Recovery,4,1316,2026-02-18,Keerthi569,Mumbai
+Yoga Mat,Fitness,1,2419,2026-03-22,Rahul458,Delhi
+Treadmill,Fitness Equipment,6,26851,2026-04-09,Meena391,Bangalore
+Health Supplement,Nutrition,5,2004,2026-07-26,Meena674,Delhi
+Massage Gun,Recovery,4,3269,2026-03-20,Sneha848,Chennai
+Smart Watch,Health Electronics,3,10615,2026-02-22,Arjun916,Delhi
+Health Supplement,Nutrition,7,1852,2026-05-22,Lakshmi784,Bangalore
+Treadmill,Fitness Equipment,3,25350,2026-04-29,Anjali193,Delhi
+Dumbbells,Fitness Equipment,3,2350,2026-09-01,Ravi431,Hyderabad
+Protein Powder,Nutrition,3,3295,2026-08-14,Swathi780,Bangalore
+Blood Pressure Monitor,Medical Devices,5,5099,2026-03-02,Vijay673,Bangalore
+Digital Thermometer,Medical Devices,7,873,2026-08-31,Kavya419,Delhi
+Blood Pressure Monitor,Medical Devices,9,1640,2026-04-20,Kiran748,Mumbai
+Foam Roller,Recovery,3,2290,2026-08-15,Divya811,Mumbai
+Massage Gun,Recovery,2,11140,2026-08-11,Kavya282,Hyderabad
+Blood Pressure Monitor,Medical Devices,8,3834,2026-08-06,Anjali731,Delhi
+Treadmill,Fitness Equipment,7,74047,2026-04-02,Ravi300,Bangalore
+Blood Pressure Monitor,Medical Devices,9,2596,2026-01-03,Nikhil417,Mumbai
+Yoga Mat,Fitness,6,1539,2026-09-15,Ravi721,Mumbai
+Protein Powder,Nutrition,5,3828,2026-09-03,Pavan144,Mumbai
+Smart Watch,Health Electronics,1,20749,2026-01-16,Divya722,Bangalore
+Resistance Bands,Fitness Equipment,3,1269,2026-02-23,Priya478,Hyderabad
+Health Supplement,Nutrition,3,3390,2026-04-01,Arjun184,Bangalore
+Yoga Mat,Fitness,1,2316,2026-02-01,Suresh199,Delhi
+Smart Watch,Health Electronics,4,23466,2026-01-09,Suresh957,Mumbai
+Foam Roller,Recovery,3,2903,2026-07-07,Sai114,Bangalore
+Digital Thermometer,Medical Devices,1,216,2026-04-09,Sai251,Mumbai
+Yoga Mat,Fitness,3,2316,2026-01-23,Meena723,Chennai
+Foam Roller,Recovery,9,2176,2026-03-30,Ravi418,Mumbai
+Fitness Shoes,Sportswear,6,2464,2026-06-24,Ramesh681,Hyderabad
+Health Supplement,Nutrition,8,861,2026-03-01,Rahul286,Hyderabad
+Dumbbells,Fitness Equipment,6,5842,2026-01-11,Kiran907,Hyderabad
+Treadmill,Fitness Equipment,6,85338,2026-02-11,Vijay415,Chennai
+Foam Roller,Recovery,3,1771,2026-01-28,Pavan822,Mumbai
+Dumbbells,Fitness Equipment,5,2150,2026-06-11,Swathi331,Chennai
+Smart Watch,Health Electronics,4,7803,2026-06-01,Meena814,Bangalore
+Smart Watch,Health Electronics,2,18052,2026-07-01,Nikhil472,Mumbai
+Massage Gun,Recovery,9,9367,2026-03-29,Priya954,Delhi
+Digital Thermometer,Medical Devices,3,700,2026-04-18,Swathi455,Mumbai
+Treadmill,Fitness Equipment,6,91029,2026-05-18,Rahul625,Chennai
+Smart Watch,Health Electronics,4,17325,2026-05-14,Priya218,Delhi
+Massage Gun,Recovery,3,9785,2026-03-13,Ramesh700,Mumbai
+Blood Pressure Monitor,Medical Devices,10,4095,2026-01-18,Suresh818,Hyderabad
+Massage Gun,Recovery,6,2129,2026-03-23,Swathi586,Mumbai
+Blood Pressure Monitor,Medical Devices,2,2532,2026-07-03,Manoj266,Bangalore
+Fitness Shoes,Sportswear,3,7660,2026-01-12,Ramesh928,Delhi
+Resistance Bands,Fitness Equipment,10,1479,2026-08-11,Pavan584,Chennai
+Smart Watch,Health Electronics,6,21691,2026-06-22,Divya794,Bangalore
+Smart Watch,Health Electronics,1,9677,2026-09-17,Sneha531,Bangalore
+Smart Watch,Health Electronics,10,15131,2026-01-15,Kiran624,Chennai
+Smart Watch,Health Electronics,10,24859,2026-09-26,Anjali681,Chennai
+Dumbbells,Fitness Equipment,6,7459,2026-01-28,Rahul416,Chennai
+Blood Pressure Monitor,Medical Devices,8,4243,2026-03-26,Ramesh100,Chennai
+Treadmill,Fitness Equipment,3,64489,2026-06-07,Rahul289,Chennai
+Treadmill,Fitness Equipment,7,36818,2026-05-06,Arjun801,Delhi
+Blood Pressure Monitor,Medical Devices,1,4910,2026-03-23,Kavya202,Bangalore
+Fitness Shoes,Sportswear,7,7224,2026-04-19,Divya784,Bangalore
+Resistance Bands,Fitness Equipment,4,1862,2026-02-19,Pavan231,Mumbai
+Dumbbells,Fitness Equipment,7,7334,2026-06-17,Manoj939,Bangalore
+Health Supplement,Nutrition,7,2687,2026-02-06,Kavya600,Delhi
+Protein Powder,Nutrition,4,4827,2026-04-02,Vijay477,Mumbai
+Blood Pressure Monitor,Medical Devices,9,1013,2026-07-23,Rahul761,Chennai
+Dumbbells,Fitness Equipment,8,2539,2026-01-23,Anjali409,Bangalore
+Yoga Mat,Fitness,6,2073,2026-04-03,Swathi254,Mumbai
+Smart Watch,Health Electronics,7,24127,2026-09-04,Priya367,Bangalore
+Dumbbells,Fitness Equipment,3,4262,2026-09-22,Sneha576,Hyderabad
+Blood Pressure Monitor,Medical Devices,2,4313,2026-01-07,Kiran426,Chennai
+Health Supplement,Nutrition,9,2072,2026-08-21,Ravi597,Bangalore
+Digital Thermometer,Medical Devices,1,460,2026-08-06,Meena859,Hyderabad
+Health Supplement,Nutrition,8,2556,2026-07-10,Divya829,Mumbai
+Fitness Shoes,Sportswear,6,2414,2026-04-02,Swathi644,Bangalore
+Massage Gun,Recovery,2,4463,2026-01-04,Suresh824,Delhi
+Smart Watch,Health Electronics,4,18872,2026-08-21,Swathi149,Bangalore
+Smart Watch,Health Electronics,1,5982,2026-09-08,Ramesh475,Hyderabad
+Health Supplement,Nutrition,6,1533,2026-08-06,Suresh791,Mumbai
+Protein Powder,Nutrition,9,2294,2026-04-02,Manoj465,Bangalore
+Protein Powder,Nutrition,8,2529,2026-06-02,Priya710,Hyderabad
+Blood Pressure Monitor,Medical Devices,1,5352,2026-07-22,Vijay279,Hyderabad
+Fitness Shoes,Sportswear,2,2532,2026-03-16,Divya541,Mumbai
+Blood Pressure Monitor,Medical Devices,8,2999,2026-09-26,Nikhil569,Hyderabad
+Yoga Mat,Fitness,6,2026,2026-01-20,Arjun723,Hyderabad
+Digital Thermometer,Medical Devices,9,892,2026-02-10,Suresh752,Mumbai
+Digital Thermometer,Medical Devices,7,172,2026-04-05,Meena838,Hyderabad
+Digital Thermometer,Medical Devices,2,962,2026-04-09,Nikhil367,Mumbai
+Health Supplement,Nutrition,9,2708,2026-05-05,Priya483,Delhi
+Resistance Bands,Fitness Equipment,4,1857,2026-08-12,Meena864,Chennai
+Smart Watch,Health Electronics,9,24001,2026-01-24,Lakshmi508,Chennai
+Massage Gun,Recovery,5,6467,2026-01-03,Swathi312,Hyderabad
+Digital Thermometer,Medical Devices,3,431,2026-05-17,Ramesh713,Mumbai
+Yoga Mat,Fitness,4,1420,2026-01-10,Suresh326,Hyderabad
+Health Supplement,Nutrition,5,3482,2026-08-24,Nikhil530,Delhi
+Blood Pressure Monitor,Medical Devices,9,4187,2026-09-01,Keerthi112,Mumbai
+Blood Pressure Monitor,Medical Devices,6,3837,2026-08-16,Arjun573,Bangalore
+Treadmill,Fitness Equipment,9,47283,2026-07-19,Meena512,Hyderabad
+Massage Gun,Recovery,10,3287,2026-09-07,Keerthi453,Hyderabad
+Treadmill,Fitness Equipment,9,73390,2026-06-05,Manoj868,Mumbai
+Resistance Bands,Fitness Equipment,8,360,2026-03-21,Lakshmi698,Chennai
+Health Supplement,Nutrition,6,2813,2026-08-09,Swathi883,Hyderabad
+Smart Watch,Health Electronics,9,26381,2026-09-09,Vijay484,Delhi
+Dumbbells,Fitness Equipment,7,5973,2026-03-05,Sneha505,Chennai
+Treadmill,Fitness Equipment,2,99808,2026-05-29,Kiran985,Chennai
+Foam Roller,Recovery,7,2753,2026-07-29,Kavya869,Chennai
+Digital Thermometer,Medical Devices,10,435,2026-06-13,Kavya745,Hyderabad
+Massage Gun,Recovery,6,10229,2026-09-30,Pavan330,Bangalore
+Resistance Bands,Fitness Equipment,8,886,2026-08-19,Kiran994,Chennai
+Digital Thermometer,Medical Devices,5,153,2026-09-30,Suresh881,Bangalore
+Massage Gun,Recovery,3,13196,2026-02-20,Pavan694,Bangalore
+Digital Thermometer,Medical Devices,7,343,2026-01-15,Lakshmi329,Chennai
+Health Supplement,Nutrition,10,2561,2026-02-11,Lakshmi684,Bangalore
+Protein Powder,Nutrition,6,3697,2026-05-08,Kiran682,Bangalore
+Massage Gun,Recovery,2,8066,2026-01-12,Lakshmi908,Bangalore
+Fitness Shoes,Sportswear,9,3081,2026-03-24,Ramesh477,Chennai
+Dumbbells,Fitness Equipment,8,6839,2026-04-13,Suresh235,Mumbai
+Yoga Mat,Fitness,1,1347,2026-08-25,Ramesh350,Delhi
+Resistance Bands,Fitness Equipment,4,1931,2026-04-01,Ramesh612,Hyderabad
+Health Supplement,Nutrition,6,1152,2026-05-06,Ramesh839,Hyderabad
+Protein Powder,Nutrition,1,3993,2026-07-28,Sai581,Bangalore
+Yoga Mat,Fitness,7,1565,2026-03-03,Lakshmi762,Delhi
+Foam Roller,Recovery,1,2296,2026-09-04,Priya399,Bangalore
+Foam Roller,Recovery,1,1988,2026-07-24,Sai744,Bangalore
+Digital Thermometer,Medical Devices,2,256,2026-03-16,Meena876,Delhi
+Yoga Mat,Fitness,3,2001,2026-07-31,Suresh245,Chennai
+Resistance Bands,Fitness Equipment,4,841,2026-02-19,Suresh757,Hyderabad
+Resistance Bands,Fitness Equipment,8,1841,2026-05-06,Meena450,Mumbai
+Foam Roller,Recovery,8,1854,2026-08-19,Meena681,Mumbai
+Health Supplement,Nutrition,1,3618,2026-03-13,Arjun634,Mumbai
+Protein Powder,Nutrition,4,4805,2026-07-09,Nikhil471,Mumbai
+Smart Watch,Health Electronics,3,20600,2026-06-06,Divya830,Bangalore
+Massage Gun,Recovery,5,4530,2026-03-07,Arjun722,Mumbai
+Digital Thermometer,Medical Devices,5,802,2026-04-27,Ravi971,Chennai
+Health Supplement,Nutrition,5,1107,2026-01-07,Meena472,Delhi
+Foam Roller,Recovery,9,2162,2026-09-02,Lakshmi274,Mumbai
+Massage Gun,Recovery,3,11619,2026-09-14,Suresh635,Mumbai
+Digital Thermometer,Medical Devices,8,813,2026-03-28,Sai593,Chennai
+Resistance Bands,Fitness Equipment,7,329,2026-02-03,Suresh330,Mumbai
+Treadmill,Fitness Equipment,4,44672,2026-05-23,Lakshmi896,Hyderabad
+Massage Gun,Recovery,4,7840,2026-09-13,Ramesh683,Hyderabad
+Foam Roller,Recovery,9,1435,2026-04-14,Kavya780,Hyderabad
+Digital Thermometer,Medical Devices,2,487,2026-09-17,Rahul377,Delhi
+Fitness Shoes,Sportswear,9,2150,2026-01-29,Ramesh680,Delhi
+Treadmill,Fitness Equipment,4,58563,2026-04-04,Vijay333,Bangalore
+Dumbbells,Fitness Equipment,1,5990,2026-05-17,Keerthi384,Hyderabad
+Foam Roller,Recovery,4,760,2026-03-09,Sai410,Hyderabad
+Treadmill,Fitness Equipment,4,56973,2026-09-02,Ramesh200,Delhi
+Protein Powder,Nutrition,6,4435,2026-02-07,Anjali589,Hyderabad
+Resistance Bands,Fitness Equipment,2,1274,2026-04-12,Sneha655,Delhi
+Treadmill,Fitness Equipment,10,88862,2026-06-03,Nikhil109,Delhi
+Digital Thermometer,Medical Devices,2,887,2026-08-15,Anjali703,Delhi
+Resistance Bands,Fitness Equipment,1,815,2026-07-28,Lakshmi377,Bangalore
+Massage Gun,Recovery,3,7384,2026-09-17,Divya626,Mumbai
+Massage Gun,Recovery,5,6328,2026-09-30,Vijay449,Mumbai
+Massage Gun,Recovery,9,10242,2026-06-08,Ramesh214,Chennai
+Resistance Bands,Fitness Equipment,1,953,2026-09-18,Divya607,Chennai
+Dumbbells,Fitness Equipment,2,7229,2026-08-10,Manoj196,Bangalore
+Blood Pressure Monitor,Medical Devices,9,2496,2026-04-10,Sneha881,Chennai
+Treadmill,Fitness Equipment,5,90769,2026-06-06,Suresh884,Delhi
+Resistance Bands,Fitness Equipment,2,1702,2026-06-03,Lakshmi315,Delhi
+Massage Gun,Recovery,3,7304,2026-03-22,Anjali884,Bangalore
+Dumbbells,Fitness Equipment,3,5998,2026-03-22,Suresh628,Bangalore
+Massage Gun,Recovery,10,14922,2026-08-02,Meena334,Mumbai
+Resistance Bands,Fitness Equipment,5,1059,2026-03-16,Manoj441,Mumbai
+Foam Roller,Recovery,6,2342,2026-06-07,Swathi676,Bangalore
+Digital Thermometer,Medical Devices,1,930,2026-07-26,Priya518,Mumbai
+Massage Gun,Recovery,3,9485,2026-05-21,Ravi938,Chennai
+Treadmill,Fitness Equipment,5,63639,2026-07-11,Ravi429,Bangalore
+Digital Thermometer,Medical Devices,6,721,2026-04-13,Anjali732,Delhi
+Resistance Bands,Fitness Equipment,5,518,2026-02-08,Vijay264,Mumbai
+Foam Roller,Recovery,8,2928,2026-08-29,Priya899,Bangalore
+Foam Roller,Recovery,8,1523,2026-05-24,Lakshmi700,Bangalore
+Protein Powder,Nutrition,2,1429,2026-06-25,Meena650,Mumbai
+Resistance Bands,Fitness Equipment,5,527,2026-08-30,Arjun867,Hyderabad
+Blood Pressure Monitor,Medical Devices,7,2243,2026-03-19,Nikhil406,Delhi
+Treadmill,Fitness Equipment,9,36535,2026-08-13,Vijay435,Delhi
+Fitness Shoes,Sportswear,5,6060,2026-09-29,Manoj806,Hyderabad
+Dumbbells,Fitness Equipment,2,7438,2026-06-10,Kavya891,Bangalore
+Foam Roller,Recovery,4,1254,2026-06-14,Ramesh333,Bangalore
+Blood Pressure Monitor,Medical Devices,6,2630,2026-05-13,Meena718,Hyderabad
+Dumbbells,Fitness Equipment,2,6261,2026-07-30,Swathi505,Bangalore
+Protein Powder,Nutrition,9,1446,2026-09-20,Kavya116,Delhi
+Digital Thermometer,Medical Devices,1,666,2026-06-17,Keerthi603,Mumbai
+Health Supplement,Nutrition,6,3098,2026-02-04,Rahul678,Hyderabad
+Fitness Shoes,Sportswear,2,5856,2026-03-23,Sai966,Hyderabad
+Health Supplement,Nutrition,8,2998,2026-04-08,Rahul885,Bangalore
+Smart Watch,Health Electronics,8,16787,2026-03-19,Suresh174,Chennai
+Massage Gun,Recovery,10,7567,2026-08-21,Sai899,Bangalore
+Protein Powder,Nutrition,7,3554,2026-05-31,Ravi738,Bangalore
+Protein Powder,Nutrition,1,2122,2026-06-15,Swathi254,Mumbai
+Treadmill,Fitness Equipment,10,67810,2026-09-30,Ramesh769,Chennai
+Health Supplement,Nutrition,6,3428,2026-03-20,Anjali891,Chennai
+Treadmill,Fitness Equipment,5,48800,2026-02-21,Ravi646,Delhi
+Protein Powder,Nutrition,3,3412,2026-06-28,Rahul435,Mumbai
+Treadmill,Fitness Equipment,4,51437,2026-06-05,Kiran534,Mumbai
+Treadmill,Fitness Equipment,4,71575,2026-01-14,Arjun998,Bangalore
+Yoga Mat,Fitness,7,604,2026-08-16,Anjali489,Hyderabad
+Resistance Bands,Fitness Equipment,8,1117,2026-04-12,Anjali889,Bangalore
+Health Supplement,Nutrition,2,880,2026-03-31,Sai692,Delhi
+Yoga Mat,Fitness,3,1358,2026-03-03,Divya858,Delhi
+Blood Pressure Monitor,Medical Devices,6,4400,2026-04-08,Anjali192,Delhi
+Blood Pressure Monitor,Medical Devices,8,3091,2026-09-18,Sneha567,Hyderabad
+Protein Powder,Nutrition,7,4490,2026-08-04,Pavan978,Hyderabad
+Blood Pressure Monitor,Medical Devices,6,3539,2026-02-03,Swathi968,Mumbai
+Treadmill,Fitness Equipment,2,76076,2026-08-30,Ravi381,Mumbai
+Protein Powder,Nutrition,3,4671,2026-05-08,Kiran678,Hyderabad
+Dumbbells,Fitness Equipment,9,2275,2026-03-13,Divya880,Hyderabad
+Protein Powder,Nutrition,10,4486,2026-04-18,Manoj480,Delhi
+Digital Thermometer,Medical Devices,3,579,2026-03-30,Kiran631,Chennai
+Foam Roller,Recovery,3,1995,2026-02-26,Kiran130,Bangalore
+Treadmill,Fitness Equipment,5,77907,2026-07-11,Meena736,Mumbai
+Protein Powder,Nutrition,1,2558,2026-01-15,Divya135,Chennai
+Digital Thermometer,Medical Devices,1,702,2026-07-13,Lakshmi839,Delhi
+Dumbbells,Fitness Equipment,3,1820,2026-01-08,Kavya328,Hyderabad
+Digital Thermometer,Medical Devices,2,265,2026-09-01,Ramesh525,Delhi
+Resistance Bands,Fitness Equipment,3,1535,2026-01-01,Manoj587,Bangalore
+Smart Watch,Health Electronics,3,12580,2026-07-07,Lakshmi784,Hyderabad
+Resistance Bands,Fitness Equipment,8,1833,2026-04-11,Arjun324,Delhi
+Dumbbells,Fitness Equipment,3,2847,2026-02-12,Sneha834,Bangalore
+Smart Watch,Health Electronics,10,5448,2026-05-08,Vijay356,Chennai
+Foam Roller,Recovery,5,1846,2026-08-25,Nikhil632,Delhi
+Health Supplement,Nutrition,5,3612,2026-03-09,Suresh532,Mumbai
+Massage Gun,Recovery,3,11492,2026-01-18,Pavan747,Hyderabad
+Treadmill,Fitness Equipment,3,26877,2026-03-15,Priya955,Chennai
+Dumbbells,Fitness Equipment,7,3642,2026-01-06,Nikhil592,Bangalore
+Blood Pressure Monitor,Medical Devices,4,5728,2026-07-27,Ramesh319,Bangalore
+Health Supplement,Nutrition,5,2735,2026-08-14,Sneha862,Mumbai
+Massage Gun,Recovery,9,7527,2026-06-22,Kiran361,Mumbai
+Resistance Bands,Fitness Equipment,9,1234,2026-02-19,Suresh881,Delhi
+Smart Watch,Health Electronics,2,27623,2026-07-07,Swathi757,Hyderabad
+Fitness Shoes,Sportswear,3,2274,2026-04-27,Ramesh949,Hyderabad
+Yoga Mat,Fitness,9,1711,2026-03-06,Kavya414,Bangalore
+Digital Thermometer,Medical Devices,9,234,2026-09-16,Kiran507,Delhi
+Treadmill,Fitness Equipment,3,54079,2026-01-09,Anjali851,Mumbai
+Fitness Shoes,Sportswear,10,7889,2026-03-19,Nikhil980,Delhi
+Fitness Shoes,Sportswear,1,5867,2026-07-05,Keerthi335,Delhi
+Dumbbells,Fitness Equipment,6,2300,2026-02-21,Kiran750,Delhi
+Treadmill,Fitness Equipment,3,95886,2026-08-06,Anjali385,Hyderabad
+Digital Thermometer,Medical Devices,5,549,2026-09-25,Swathi587,Bangalore
+Blood Pressure Monitor,Medical Devices,3,3457,2026-01-01,Rahul357,Delhi
+Massage Gun,Recovery,5,5420,2026-02-04,Priya873,Bangalore
+Dumbbells,Fitness Equipment,3,4939,2026-03-24,Vijay500,Chennai
+Massage Gun,Recovery,7,8406,2026-04-10,Vijay954,Mumbai
+Yoga Mat,Fitness,4,1631,2026-03-13,Pavan226,Delhi
+Massage Gun,Recovery,3,5372,2026-08-16,Arjun788,Mumbai
+Blood Pressure Monitor,Medical Devices,1,1960,2026-09-24,Manoj636,Hyderabad
+Massage Gun,Recovery,10,9718,2026-04-29,Ramesh405,Hyderabad
+Fitness Shoes,Sportswear,10,5222,2026-03-20,Rahul872,Mumbai
+Smart Watch,Health Electronics,1,14501,2026-05-11,Sneha741,Bangalore
+Digital Thermometer,Medical Devices,10,322,2026-09-07,Manoj330,Delhi
+Yoga Mat,Fitness,2,2971,2026-07-05,Vijay990,Bangalore
+Foam Roller,Recovery,7,2227,2026-01-30,Sneha985,Mumbai
+Foam Roller,Recovery,5,1530,2026-09-18,Suresh529,Mumbai
+Blood Pressure Monitor,Medical Devices,2,1105,2026-02-21,Divya348,Delhi
+Resistance Bands,Fitness Equipment,4,1510,2026-08-11,Meena206,Bangalore
+Fitness Shoes,Sportswear,10,6133,2026-07-12,Lakshmi631,Bangalore
+Protein Powder,Nutrition,10,1641,2026-02-20,Nikhil197,Hyderabad
+Treadmill,Fitness Equipment,6,80290,2026-07-21,Priya455,Bangalore
+Resistance Bands,Fitness Equipment,10,1370,2026-01-20,Pavan932,Bangalore
+Massage Gun,Recovery,1,5539,2026-04-03,Ravi745,Mumbai
+Yoga Mat,Fitness,5,2188,2026-01-15,Ramesh969,Mumbai
+Blood Pressure Monitor,Medical Devices,6,3886,2026-05-08,Meena556,Hyderabad
+Blood Pressure Monitor,Medical Devices,8,3155,2026-03-24,Anjali671,Delhi
+Massage Gun,Recovery,6,14135,2026-07-25,Kavya899,Chennai
+Resistance Bands,Fitness Equipment,2,983,2026-06-30,Lakshmi651,Chennai
+Blood Pressure Monitor,Medical Devices,5,1829,2026-02-16,Pavan420,Delhi
+Resistance Bands,Fitness Equipment,3,1849,2026-07-15,Anjali371,Bangalore
+Blood Pressure Monitor,Medical Devices,6,4586,2026-07-05,Kiran272,Mumbai
+Protein Powder,Nutrition,2,1977,2026-06-08,Sai817,Delhi
+Smart Watch,Health Electronics,9,19637,2026-04-02,Pavan733,Hyderabad
+Treadmill,Fitness Equipment,2,36867,2026-07-27,Meena249,Mumbai
+Fitness Shoes,Sportswear,6,4750,2026-03-10,Pavan206,Mumbai
+Health Supplement,Nutrition,10,836,2026-06-15,Vijay553,Hyderabad
+Treadmill,Fitness Equipment,9,45317,2026-05-21,Ravi606,Chennai
+Foam Roller,Recovery,4,1504,2026-04-26,Ramesh763,Chennai
+Dumbbells,Fitness Equipment,1,3431,2026-05-05,Ravi978,Delhi
+Resistance Bands,Fitness Equipment,8,1148,2026-04-09,Swathi290,Delhi
+Health Supplement,Nutrition,7,3069,2026-07-18,Meena823,Mumbai
+Smart Watch,Health Electronics,7,14131,2026-07-06,Vijay427,Delhi
+Blood Pressure Monitor,Medical Devices,2,2101,2026-06-14,Vijay914,Delhi
+Health Supplement,Nutrition,3,895,2026-09-17,Divya648,Mumbai
+Yoga Mat,Fitness,10,1433,2026-06-28,Keerthi940,Chennai
+Resistance Bands,Fitness Equipment,5,1476,2026-01-28,Ramesh733,Bangalore
+Resistance Bands,Fitness Equipment,10,1193,2026-02-03,Kiran122,Delhi
+Resistance Bands,Fitness Equipment,9,1631,2026-01-30,Kavya588,Chennai
+Yoga Mat,Fitness,6,767,2026-05-22,Nikhil358,Hyderabad
+Foam Roller,Recovery,10,2510,2026-08-09,Arjun505,Chennai
+Massage Gun,Recovery,8,7076,2026-06-05,Suresh338,Delhi
+Fitness Shoes,Sportswear,7,2681,2026-06-11,Ravi724,Hyderabad
+Foam Roller,Recovery,6,2906,2026-03-03,Rahul728,Hyderabad
+Fitness Shoes,Sportswear,7,7483,2026-03-24,Anjali354,Delhi
+Dumbbells,Fitness Equipment,3,1241,2026-09-11,Sneha439,Hyderabad
+Yoga Mat,Fitness,7,2851,2026-07-18,Swathi490,Bangalore
+Dumbbells,Fitness Equipment,6,2499,2026-02-19,Manoj463,Chennai
+Foam Roller,Recovery,7,1532,2026-09-13,Rahul288,Mumbai
+Digital Thermometer,Medical Devices,4,382,2026-06-29,Rahul447,Bangalore
+Yoga Mat,Fitness,9,1555,2026-01-11,Lakshmi162,Delhi
+Protein Powder,Nutrition,6,1591,2026-03-28,Ravi641,Hyderabad
+Protein Powder,Nutrition,6,2775,2026-06-06,Ravi919,Delhi
+Health Supplement,Nutrition,6,784,2026-03-30,Anjali751,Delhi
+Resistance Bands,Fitness Equipment,3,1396,2026-04-22,Kavya199,Chennai
+Health Supplement,Nutrition,6,2851,2026-04-01,Ramesh823,Chennai
+Fitness Shoes,Sportswear,3,5146,2026-01-16,Lakshmi139,Delhi
+Yoga Mat,Fitness,5,1693,2026-02-25,Kavya799,Chennai
+Health Supplement,Nutrition,9,1185,2026-02-21,Divya297,Delhi
+Dumbbells,Fitness Equipment,10,3763,2026-08-21,Keerthi951,Bangalore
+Resistance Bands,Fitness Equipment,2,1669,2026-02-03,Suresh352,Mumbai
+Dumbbells,Fitness Equipment,4,7697,2026-09-09,Anjali913,Bangalore
+Protein Powder,Nutrition,6,1440,2026-09-03,Nikhil201,Delhi
+Yoga Mat,Fitness,6,2659,2026-09-30,Sai503,Delhi
+Massage Gun,Recovery,4,6629,2026-06-14,Arjun558,Chennai
+Smart Watch,Health Electronics,7,15246,2026-08-11,Pavan184,Bangalore
+Protein Powder,Nutrition,8,1627,2026-06-14,Keerthi595,Delhi
+Digital Thermometer,Medical Devices,5,659,2026-05-28,Priya640,Hyderabad
+Treadmill,Fitness Equipment,2,65254,2026-03-30,Suresh856,Hyderabad
+Fitness Shoes,Sportswear,1,1886,2026-06-05,Pavan292,Mumbai
+Fitness Shoes,Sportswear,1,7104,2026-08-11,Sai636,Chennai
+Fitness Shoes,Sportswear,6,7079,2026-01-23,Anjali201,Bangalore
+Dumbbells,Fitness Equipment,4,6836,2026-06-13,Rahul831,Chennai
+Resistance Bands,Fitness Equipment,4,1469,2026-01-08,Priya490,Chennai
+Foam Roller,Recovery,2,1689,2026-01-03,Vijay775,Mumbai
+Dumbbells,Fitness Equipment,7,7771,2026-04-27,Kavya957,Bangalore
+Protein Powder,Nutrition,3,1780,2026-05-07,Lakshmi784,Mumbai
+Digital Thermometer,Medical Devices,10,877,2026-06-08,Anjali999,Mumbai
+Digital Thermometer,Medical Devices,1,575,2026-07-31,Pavan384,Chennai
+Resistance Bands,Fitness Equipment,5,1529,2026-01-06,Pavan142,Bangalore
+Dumbbells,Fitness Equipment,4,1577,2026-02-28,Sneha262,Bangalore
+Yoga Mat,Fitness,3,2699,2026-06-17,Kiran857,Mumbai
+Massage Gun,Recovery,7,6666,2026-05-27,Manoj976,Delhi
+Smart Watch,Health Electronics,2,26936,2026-03-03,Pavan942,Chennai
+Yoga Mat,Fitness,9,2539,2026-04-13,Arjun630,Hyderabad
+Resistance Bands,Fitness Equipment,8,523,2026-02-27,Vijay138,Bangalore
+Dumbbells,Fitness Equipment,2,7246,2026-02-04,Vijay546,Delhi
+Blood Pressure Monitor,Medical Devices,8,2169,2026-08-15,Lakshmi887,Hyderabad
+Massage Gun,Recovery,9,14563,2026-04-07,Anjali842,Mumbai
+Protein Powder,Nutrition,10,1258,2026-03-20,Suresh980,Mumbai
+Dumbbells,Fitness Equipment,6,4784,2026-04-13,Priya500,Bangalore
+Dumbbells,Fitness Equipment,5,5141,2026-02-02,Vijay288,Chennai
+Blood Pressure Monitor,Medical Devices,8,1207,2026-08-14,Rahul963,Chennai
+Health Supplement,Nutrition,9,1678,2026-03-24,Arjun660,Mumbai
+Protein Powder,Nutrition,2,4004,2026-02-03,Swathi630,Delhi
+Protein Powder,Nutrition,10,4151,2026-03-28,Suresh479,Hyderabad
+Dumbbells,Fitness Equipment,2,6605,2026-04-30,Ravi490,Hyderabad
+Health Supplement,Nutrition,1,3832,2026-07-18,Nikhil222,Chennai
+Massage Gun,Recovery,1,11234,2026-02-07,Ravi764,Bangalore
+Health Supplement,Nutrition,7,1656,2026-07-18,Ramesh866,Chennai
+Massage Gun,Recovery,8,12036,2026-05-09,Kavya751,Bangalore
+Resistance Bands,Fitness Equipment,3,1230,2026-07-04,Vijay247,Mumbai
+Massage Gun,Recovery,3,8364,2026-05-12,Kiran476,Hyderabad
+Digital Thermometer,Medical Devices,5,297,2026-01-22,Ramesh520,Delhi
+Treadmill,Fitness Equipment,7,41387,2026-06-30,Anjali515,Bangalore
+Digital Thermometer,Medical Devices,8,901,2026-08-20,Ramesh497,Bangalore
+Blood Pressure Monitor,Medical Devices,6,3670,2026-07-24,Arjun840,Delhi
+Treadmill,Fitness Equipment,4,53437,2026-04-08,Nikhil299,Delhi
+Blood Pressure Monitor,Medical Devices,8,5490,2026-07-29,Kavya759,Mumbai
+Treadmill,Fitness Equipment,7,43524,2026-08-29,Sneha655,Bangalore
+Smart Watch,Health Electronics,10,15504,2026-01-27,Anjali322,Mumbai
+Fitness Shoes,Sportswear,3,6903,2026-07-16,Sai542,Chennai
+Resistance Bands,Fitness Equipment,1,1721,2026-04-16,Pavan681,Chennai
+Smart Watch,Health Electronics,10,27206,2026-03-21,Pavan688,Chennai
+Dumbbells,Fitness Equipment,7,3592,2026-08-28,Vijay988,Chennai
+Resistance Bands,Fitness Equipment,6,1550,2026-09-29,Priya792,Hyderabad
+Yoga Mat,Fitness,2,587,2026-01-05,Priya439,Hyderabad
+Blood Pressure Monitor,Medical Devices,6,2663,2026-03-19,Anjali414,Hyderabad
+Blood Pressure Monitor,Medical Devices,10,3584,2026-08-17,Divya446,Chennai
+Smart Watch,Health Electronics,5,5325,2026-03-23,Arjun267,Bangalore
+Yoga Mat,Fitness,9,2178,2026-03-23,Keerthi665,Bangalore
+Foam Roller,Recovery,5,1521,2026-02-28,Arjun555,Hyderabad
+Protein Powder,Nutrition,3,4805,2026-07-15,Divya488,Bangalore
+Dumbbells,Fitness Equipment,1,5801,2026-07-05,Ramesh698,Delhi
+Dumbbells,Fitness Equipment,8,1162,2026-09-09,Nikhil452,Mumbai
+Yoga Mat,Fitness,6,782,2026-04-01,Arjun739,Mumbai
+Massage Gun,Recovery,7,4449,2026-02-26,Anjali749,Mumbai
+Smart Watch,Health Electronics,2,13623,2026-09-11,Ravi736,Delhi
+Digital Thermometer,Medical Devices,3,523,2026-05-10,Anjali625,Mumbai
+Fitness Shoes,Sportswear,1,5510,2026-06-13,Kiran153,Chennai
+Foam Roller,Recovery,5,1577,2026-08-18,Swathi445,Hyderabad
+Smart Watch,Health Electronics,8,23607,2026-02-11,Suresh664,Hyderabad
+Dumbbells,Fitness Equipment,10,1087,2026-01-10,Manoj489,Chennai
+Resistance Bands,Fitness Equipment,7,1095,2026-01-19,Meena813,Bangalore
+Blood Pressure Monitor,Medical Devices,6,5199,2026-08-06,Swathi824,Mumbai
+Dumbbells,Fitness Equipment,6,6891,2026-05-14,Keerthi297,Bangalore
+Smart Watch,Health Electronics,5,4729,2026-08-19,Rahul924,Mumbai
+Fitness Shoes,Sportswear,2,1688,2026-03-07,Sneha348,Hyderabad
+Dumbbells,Fitness Equipment,6,1532,2026-03-20,Nikhil920,Chennai
+Yoga Mat,Fitness,2,539,2026-01-07,Suresh991,Delhi
+Yoga Mat,Fitness,3,2886,2026-08-24,Suresh904,Hyderabad
+Health Supplement,Nutrition,2,730,2026-03-13,Anjali863,Hyderabad
+Dumbbells,Fitness Equipment,2,6883,2026-02-16,Ravi543,Chennai
+Treadmill,Fitness Equipment,1,35408,2026-07-18,Suresh740,Delhi
+Treadmill,Fitness Equipment,8,50860,2026-09-11,Lakshmi823,Chennai
+Resistance Bands,Fitness Equipment,5,1798,2026-02-01,Ramesh289,Delhi
+Protein Powder,Nutrition,2,1920,2026-04-12,Meena247,Delhi
+Health Supplement,Nutrition,4,3367,2026-03-05,Rahul292,Chennai
+Blood Pressure Monitor,Medical Devices,4,2330,2026-07-22,Nikhil403,Delhi
+Digital Thermometer,Medical Devices,9,805,2026-05-27,Anjali536,Mumbai
+Blood Pressure Monitor,Medical Devices,4,5346,2026-01-04,Meena388,Chennai
+Yoga Mat,Fitness,1,757,2026-09-10,Kavya850,Hyderabad
+Health Supplement,Nutrition,7,827,2026-08-17,Ravi862,Hyderabad
+Blood Pressure Monitor,Medical Devices,10,3961,2026-02-03,Nikhil368,Mumbai
+Resistance Bands,Fitness Equipment,6,1820,2026-09-03,Kavya611,Mumbai
+Resistance Bands,Fitness Equipment,6,1418,2026-04-08,Vijay701,Chennai
+Protein Powder,Nutrition,6,2878,2026-08-27,Ramesh432,Bangalore
+Resistance Bands,Fitness Equipment,8,1226,2026-03-20,Arjun855,Bangalore
+Digital Thermometer,Medical Devices,1,292,2026-06-12,Pavan991,Chennai
+Digital Thermometer,Medical Devices,6,164,2026-08-11,Kiran254,Delhi
+Dumbbells,Fitness Equipment,4,1776,2026-01-09,Pavan583,Chennai
+Smart Watch,Health Electronics,6,8480,2026-01-12,Divya501,Chennai
+Smart Watch,Health Electronics,9,11098,2026-04-27,Anjali598,Delhi
+Foam Roller,Recovery,8,2272,2026-08-11,Kiran599,Hyderabad
+Blood Pressure Monitor,Medical Devices,2,1548,2026-06-15,Divya722,Mumbai
+Dumbbells,Fitness Equipment,4,5249,2026-09-11,Anjali526,Bangalore
+Protein Powder,Nutrition,5,3786,2026-03-23,Suresh745,Mumbai
+Massage Gun,Recovery,10,9028,2026-03-04,Lakshmi232,Delhi
+Smart Watch,Health Electronics,6,25748,2026-07-11,Arjun478,Delhi
+Resistance Bands,Fitness Equipment,2,336,2026-08-17,Kavya527,Chennai
+Treadmill,Fitness Equipment,6,55597,2026-06-10,Divya905,Mumbai
+Fitness Shoes,Sportswear,6,6228,2026-06-19,Anjali230,Mumbai
+Massage Gun,Recovery,10,5750,2026-05-02,Vijay600,Delhi
+Resistance Bands,Fitness Equipment,1,941,2026-09-19,Sneha493,Chennai
+Health Supplement,Nutrition,6,833,2026-09-28,Divya573,Delhi
+Foam Roller,Recovery,5,774,2026-08-19,Pavan896,Chennai
+Smart Watch,Health Electronics,3,13920,2026-01-31,Divya352,Chennai
+Massage Gun,Recovery,1,7361,2026-07-02,Lakshmi594,Delhi
+Dumbbells,Fitness Equipment,5,3621,2026-09-06,Suresh719,Delhi
+Treadmill,Fitness Equipment,4,40776,2026-06-01,Priya853,Chennai
+Fitness Shoes,Sportswear,9,3813,2026-05-08,Pavan533,Hyderabad
+Smart Watch,Health Electronics,5,8692,2026-03-15,Manoj125,Hyderabad
+Massage Gun,Recovery,7,3289,2026-07-08,Ramesh894,Chennai
+Resistance Bands,Fitness Equipment,7,1437,2026-03-22,Lakshmi554,Mumbai
+Yoga Mat,Fitness,5,2367,2026-05-22,Anjali823,Delhi
+Resistance Bands,Fitness Equipment,5,633,2026-03-07,Suresh117,Hyderabad
+Protein Powder,Nutrition,6,3463,2026-09-02,Kavya245,Mumbai
+Foam Roller,Recovery,7,2753,2026-01-14,Swathi761,Mumbai
+Digital Thermometer,Medical Devices,3,484,2026-01-18,Manoj431,Delhi
+Health Supplement,Nutrition,1,2595,2026-01-29,Arjun608,Hyderabad
+Yoga Mat,Fitness,3,1120,2026-02-22,Sai267,Chennai
+Yoga Mat,Fitness,6,1962,2026-06-23,Rahul522,Mumbai
+Yoga Mat,Fitness,8,2140,2026-02-01,Sai526,Bangalore
+Foam Roller,Recovery,3,2745,2026-02-15,Anjali559,Chennai
+Yoga Mat,Fitness,5,1431,2026-05-03,Priya760,Delhi
+Protein Powder,Nutrition,1,3833,2026-04-26,Divya143,Hyderabad
+Treadmill,Fitness Equipment,4,45005,2026-03-12,Sai427,Mumbai
+Digital Thermometer,Medical Devices,7,169,2026-09-19,Manoj604,Hyderabad
+Massage Gun,Recovery,7,11011,2026-02-04,Priya304,Delhi
+Protein Powder,Nutrition,4,2140,2026-09-09,Ravi457,Hyderabad
+Health Supplement,Nutrition,6,2585,2026-03-26,Pavan317,Chennai
+Fitness Shoes,Sportswear,1,6641,2026-05-25,Meena669,Mumbai
+Fitness Shoes,Sportswear,7,2809,2026-04-14,Lakshmi362,Mumbai
+Treadmill,Fitness Equipment,6,59123,2026-07-21,Sneha766,Mumbai
+Resistance Bands,Fitness Equipment,1,1212,2026-09-20,Pavan309,Chennai
+Yoga Mat,Fitness,1,2087,2026-02-24,Anjali304,Delhi
+Foam Roller,Recovery,5,1377,2026-06-05,Kavya574,Hyderabad
+Massage Gun,Recovery,4,11287,2026-05-10,Anjali623,Hyderabad
+Smart Watch,Health Electronics,1,9091,2026-04-03,Suresh311,Bangalore
+Foam Roller,Recovery,7,1840,2026-08-23,Pavan716,Chennai
+Resistance Bands,Fitness Equipment,8,1448,2026-05-27,Vijay179,Delhi
+Yoga Mat,Fitness,1,627,2026-01-26,Ravi380,Hyderabad
+Smart Watch,Health Electronics,8,14498,2026-03-23,Sneha154,Mumbai
+Treadmill,Fitness Equipment,4,80465,2026-07-10,Rahul386,Bangalore
+Massage Gun,Recovery,1,6873,2026-01-18,Sneha409,Chennai
+Smart Watch,Health Electronics,8,28232,2026-04-15,Sneha751,Hyderabad
+Resistance Bands,Fitness Equipment,3,329,2026-02-27,Rahul842,Chennai
+Resistance Bands,Fitness Equipment,10,1723,2026-05-20,Meena123,Delhi
+Resistance Bands,Fitness Equipment,2,1797,2026-03-20,Anjali166,Bangalore
+Massage Gun,Recovery,7,2489,2026-01-20,Divya542,Bangalore
+Digital Thermometer,Medical Devices,3,163,2026-01-23,Rahul888,Mumbai
+Foam Roller,Recovery,5,2462,2026-04-14,Meena124,Mumbai
+Treadmill,Fitness Equipment,4,83718,2026-01-01,Priya994,Delhi
+Digital Thermometer,Medical Devices,9,869,2026-09-08,Vijay832,Hyderabad
+Smart Watch,Health Electronics,6,4897,2026-07-08,Ramesh940,Bangalore
+Fitness Shoes,Sportswear,3,4557,2026-07-10,Keerthi653,Chennai
+Blood Pressure Monitor,Medical Devices,6,4334,2026-03-31,Nikhil511,Mumbai
+Resistance Bands,Fitness Equipment,6,1871,2026-05-30,Arjun933,Bangalore
+Massage Gun,Recovery,9,8681,2026-07-04,Swathi188,Delhi
+Smart Watch,Health Electronics,3,12905,2026-07-03,Ramesh561,Delhi
+Massage Gun,Recovery,3,2700,2026-06-25,Sai980,Chennai
+Health Supplement,Nutrition,6,2712,2026-03-23,Nikhil242,Chennai
+Foam Roller,Recovery,7,834,2026-08-03,Sneha613,Delhi
+Protein Powder,Nutrition,9,1625,2026-01-03,Meena663,Chennai
+Foam Roller,Recovery,4,1871,2026-09-08,Sneha433,Mumbai
+Fitness Shoes,Sportswear,7,5785,2026-07-21,Vijay690,Mumbai
+Foam Roller,Recovery,7,935,2026-04-26,Ramesh259,Chennai
+Foam Roller,Recovery,1,2566,2026-02-25,Divya247,Hyderabad
+Foam Roller,Recovery,5,1490,2026-07-27,Manoj945,Chennai
+Fitness Shoes,Sportswear,2,3064,2026-01-13,Ravi131,Mumbai
+Yoga Mat,Fitness,4,1260,2026-02-06,Rahul359,Bangalore
+Yoga Mat,Fitness,7,1964,2026-07-26,Ravi814,Delhi
+Smart Watch,Health Electronics,6,14705,2026-07-11,Anjali411,Bangalore
+Health Supplement,Nutrition,10,2459,2026-01-22,Divya132,Bangalore
+Blood Pressure Monitor,Medical Devices,6,1254,2026-05-11,Divya981,Bangalore
+Fitness Shoes,Sportswear,2,4962,2026-06-29,Divya127,Bangalore
+Protein Powder,Nutrition,8,4309,2026-02-14,Divya358,Delhi
+Yoga Mat,Fitness,2,1505,2026-02-18,Ramesh488,Mumbai
+Treadmill,Fitness Equipment,10,86509,2026-01-18,Suresh417,Delhi
+Foam Roller,Recovery,8,1387,2026-07-30,Sneha110,Chennai
+Health Supplement,Nutrition,1,2573,2026-08-16,Rahul614,Chennai
+Resistance Bands,Fitness Equipment,5,1727,2026-07-18,Keerthi769,Hyderabad
+Smart Watch,Health Electronics,10,5855,2026-09-22,Divya278,Bangalore
+Smart Watch,Health Electronics,3,3304,2026-05-29,Lakshmi439,Bangalore
+Yoga Mat,Fitness,3,814,2026-04-12,Divya597,Chennai
+Protein Powder,Nutrition,7,4377,2026-04-01,Pavan144,Mumbai
+Dumbbells,Fitness Equipment,4,3785,2026-09-10,Vijay830,Bangalore
+Foam Roller,Recovery,2,915,2026-03-26,Arjun235,Delhi
+Health Supplement,Nutrition,1,2294,2026-09-12,Kavya913,Bangalore
+Protein Powder,Nutrition,9,4876,2026-07-08,Keerthi208,Bangalore
+Resistance Bands,Fitness Equipment,1,871,2026-08-12,Keerthi818,Bangalore
+Yoga Mat,Fitness,2,857,2026-05-15,Kavya586,Bangalore
+Fitness Shoes,Sportswear,4,2626,2026-03-03,Ravi265,Hyderabad
+Health Supplement,Nutrition,3,3222,2026-04-11,Ramesh775,Delhi
+Blood Pressure Monitor,Medical Devices,9,3154,2026-09-02,Rahul908,Chennai
+Health Supplement,Nutrition,7,974,2026-01-21,Vijay307,Chennai
+Smart Watch,Health Electronics,3,26465,2026-07-20,Ravi480,Hyderabad
+Fitness Shoes,Sportswear,1,2423,2026-09-26,Meena699,Delhi
+Protein Powder,Nutrition,5,4806,2026-03-12,Suresh349,Bangalore
+Treadmill,Fitness Equipment,4,87227,2026-09-02,Divya319,Hyderabad
+Dumbbells,Fitness Equipment,7,5530,2026-02-06,Arjun783,Chennai
+Fitness Shoes,Sportswear,3,7730,2026-02-04,Divya625,Hyderabad
+Health Supplement,Nutrition,3,1511,2026-07-31,Kavya330,Mumbai
+Digital Thermometer,Medical Devices,1,920,2026-08-10,Priya991,Mumbai
+Digital Thermometer,Medical Devices,1,347,2026-07-11,Pavan560,Delhi
+Treadmill,Fitness Equipment,3,87831,2026-09-18,Swathi761,Chennai
+Treadmill,Fitness Equipment,10,93322,2026-05-28,Divya891,Hyderabad
+Digital Thermometer,Medical Devices,10,181,2026-08-02,Rahul675,Hyderabad
+Foam Roller,Recovery,3,663,2026-07-09,Meena502,Mumbai
+Resistance Bands,Fitness Equipment,6,921,2026-06-17,Manoj975,Bangalore
+Fitness Shoes,Sportswear,8,4662,2026-03-12,Divya445,Hyderabad
+Foam Roller,Recovery,8,1902,2026-09-30,Sai731,Hyderabad
+Smart Watch,Health Electronics,5,10888,2026-05-28,Lakshmi625,Chennai
+Blood Pressure Monitor,Medical Devices,6,2961,2026-04-08,Kavya413,Chennai
+Blood Pressure Monitor,Medical Devices,9,4371,2026-05-23,Meena712,Bangalore
+Massage Gun,Recovery,4,14588,2026-03-13,Manoj294,Mumbai
+Foam Roller,Recovery,9,2764,2026-06-14,Anjali917,Bangalore
+Health Supplement,Nutrition,9,1210,2026-03-02,Manoj753,Chennai
+Treadmill,Fitness Equipment,10,69220,2026-04-04,Divya483,Chennai
+Digital Thermometer,Medical Devices,8,884,2026-05-19,Nikhil570,Delhi
+Blood Pressure Monitor,Medical Devices,3,3086,2026-02-06,Meena227,Bangalore
+Fitness Shoes,Sportswear,7,1526,2026-02-04,Anjali931,Mumbai
+Resistance Bands,Fitness Equipment,8,1427,2026-05-22,Sai681,Bangalore
+Treadmill,Fitness Equipment,5,31683,2026-08-07,Divya709,Hyderabad
+Resistance Bands,Fitness Equipment,7,1092,2026-06-10,Sneha243,Chennai
+Yoga Mat,Fitness,6,723,2026-01-22,Rahul384,Hyderabad
+Fitness Shoes,Sportswear,9,3698,2026-03-07,Sneha860,Bangalore
+Treadmill,Fitness Equipment,1,99261,2026-01-31,Ravi214,Mumbai
+Health Supplement,Nutrition,5,1664,2026-08-09,Vijay336,Chennai
+Health Supplement,Nutrition,10,2837,2026-05-17,Keerthi462,Chennai
+Dumbbells,Fitness Equipment,1,5535,2026-06-12,Vijay275,Bangalore
+Treadmill,Fitness Equipment,9,27285,2026-03-24,Rahul684,Delhi
+Smart Watch,Health Electronics,8,6081,2026-02-18,Vijay965,Bangalore
+Treadmill,Fitness Equipment,4,85228,2026-03-26,Kiran325,Mumbai
+Yoga Mat,Fitness,1,1478,2026-06-07,Swathi693,Delhi
+Digital Thermometer,Medical Devices,8,368,2026-04-29,Sneha967,Hyderabad
+Digital Thermometer,Medical Devices,8,603,2026-03-18,Pavan971,Delhi
+Digital Thermometer,Medical Devices,1,704,2026-05-20,Anjali789,Bangalore
+Digital Thermometer,Medical Devices,9,500,2026-06-14,Ravi611,Delhi
+Health Supplement,Nutrition,7,3933,2026-08-15,Lakshmi310,Mumbai
+Dumbbells,Fitness Equipment,2,5923,2026-07-13,Kiran906,Bangalore
+Treadmill,Fitness Equipment,4,66184,2026-06-30,Pavan380,Chennai
+Foam Roller,Recovery,5,1445,2026-07-14,Lakshmi998,Bangalore
+Protein Powder,Nutrition,10,2199,2026-02-03,Ramesh830,Hyderabad
+Digital Thermometer,Medical Devices,10,503,2026-07-04,Pavan120,Bangalore
+Digital Thermometer,Medical Devices,8,584,2026-02-15,Swathi361,Mumbai
+Treadmill,Fitness Equipment,5,73050,2026-05-14,Divya261,Chennai
+Treadmill,Fitness Equipment,10,92786,2026-09-29,Anjali966,Hyderabad
+Digital Thermometer,Medical Devices,6,199,2026-04-28,Rahul824,Chennai
+Yoga Mat,Fitness,10,2764,2026-01-26,Meena181,Delhi
+Smart Watch,Health Electronics,8,6883,2026-05-31,Arjun979,Bangalore
+Smart Watch,Health Electronics,3,9506,2026-07-29,Manoj270,Delhi
+Yoga Mat,Fitness,4,877,2026-01-27,Nikhil770,Chennai
+Smart Watch,Health Electronics,9,17409,2026-08-05,Kiran341,Hyderabad
+Treadmill,Fitness Equipment,10,35098,2026-02-04,Sneha375,Chennai
+Fitness Shoes,Sportswear,2,7882,2026-08-25,Keerthi879,Mumbai
+Foam Roller,Recovery,3,1125,2026-04-06,Vijay905,Hyderabad
+Blood Pressure Monitor,Medical Devices,3,3230,2026-09-20,Ravi612,Delhi
+Protein Powder,Nutrition,7,1752,2026-03-27,Priya580,Chennai
+Dumbbells,Fitness Equipment,4,5988,2026-07-08,Nikhil901,Mumbai
+Resistance Bands,Fitness Equipment,4,1231,2026-03-31,Sneha830,Chennai
+Dumbbells,Fitness Equipment,10,7180,2026-01-22,Rahul486,Chennai
+Protein Powder,Nutrition,5,3087,2026-09-28,Divya793,Bangalore
+Fitness Shoes,Sportswear,9,7449,2026-07-26,Sai577,Delhi
+Blood Pressure Monitor,Medical Devices,10,5730,2026-07-27,Meena636,Bangalore
+Dumbbells,Fitness Equipment,9,5093,2026-03-06,Priya311,Hyderabad
+Health Supplement,Nutrition,6,3948,2026-06-02,Sneha718,Bangalore
+Digital Thermometer,Medical Devices,7,456,2026-07-11,Ravi422,Bangalore
+Treadmill,Fitness Equipment,1,53255,2026-08-11,Arjun560,Delhi
+Foam Roller,Recovery,3,1736,2026-07-22,Vijay245,Hyderabad
+Treadmill,Fitness Equipment,8,58150,2026-09-07,Pavan577,Bangalore
+Blood Pressure Monitor,Medical Devices,4,4795,2026-03-08,Swathi152,Chennai
+Dumbbells,Fitness Equipment,2,3420,2026-07-11,Priya458,Bangalore
+Digital Thermometer,Medical Devices,7,229,2026-05-31,Kavya940,Delhi
+Fitness Shoes,Sportswear,8,1831,2026-09-03,Rahul460,Mumbai
+Treadmill,Fitness Equipment,5,91416,2026-03-26,Ravi203,Chennai
+Foam Roller,Recovery,9,1604,2026-01-31,Ravi621,Chennai
+Massage Gun,Recovery,9,8082,2026-01-13,Ramesh513,Mumbai
+Health Supplement,Nutrition,8,1921,2026-06-17,Manoj476,Hyderabad
+Fitness Shoes,Sportswear,10,2510,2026-08-13,Divya543,Delhi
+Protein Powder,Nutrition,9,4184,2026-09-17,Rahul257,Bangalore
+Blood Pressure Monitor,Medical Devices,8,3188,2026-03-15,Arjun880,Chennai
+Yoga Mat,Fitness,10,2072,2026-05-22,Pavan325,Hyderabad
+Protein Powder,Nutrition,5,1249,2026-03-10,Anjali528,Delhi
+Treadmill,Fitness Equipment,7,44876,2026-08-07,Keerthi681,Mumbai
+Treadmill,Fitness Equipment,1,33680,2026-03-25,Priya371,Bangalore
+Yoga Mat,Fitness,4,2418,2026-03-26,Divya216,Hyderabad
+Massage Gun,Recovery,8,7615,2026-07-10,Divya364,Delhi
+Fitness Shoes,Sportswear,9,7579,2026-06-19,Suresh639,Chennai
+Massage Gun,Recovery,10,10520,2026-05-23,Lakshmi896,Chennai
+Treadmill,Fitness Equipment,1,81868,2026-09-05,Meena436,Delhi
+Smart Watch,Health Electronics,8,25733,2026-07-27,Priya705,Mumbai
+Smart Watch,Health Electronics,2,29003,2026-03-17,Keerthi328,Chennai
+Treadmill,Fitness Equipment,8,45087,2026-02-20,Keerthi617,Mumbai
+Digital Thermometer,Medical Devices,7,579,2026-06-19,Manoj183,Chennai
+Dumbbells,Fitness Equipment,10,4941,2026-02-03,Suresh158,Bangalore
+Digital Thermometer,Medical Devices,7,307,2026-08-01,Divya131,Mumbai
+Blood Pressure Monitor,Medical Devices,2,3523,2026-05-01,Divya603,Bangalore
+Health Supplement,Nutrition,4,2160,2026-08-09,Vijay393,Chennai
+Health Supplement,Nutrition,3,1876,2026-03-23,Lakshmi434,Delhi
+Digital Thermometer,Medical Devices,2,253,2026-02-12,Rahul915,Hyderabad
+Dumbbells,Fitness Equipment,9,4510,2026-09-10,Rahul912,Chennai
+Protein Powder,Nutrition,1,3130,2026-04-01,Priya236,Mumbai
+Blood Pressure Monitor,Medical Devices,6,5685,2026-02-14,Priya269,Mumbai
+Blood Pressure Monitor,Medical Devices,2,1319,2026-02-12,Priya729,Hyderabad
+Treadmill,Fitness Equipment,3,76231,2026-09-09,Sneha373,Delhi
+Smart Watch,Health Electronics,10,29421,2026-09-27,Rahul951,Delhi
+Smart Watch,Health Electronics,3,4128,2026-08-25,Lakshmi972,Mumbai
+Dumbbells,Fitness Equipment,9,1787,2026-09-12,Lakshmi329,Mumbai
+Protein Powder,Nutrition,7,4690,2026-06-23,Kiran811,Bangalore
+Resistance Bands,Fitness Equipment,6,1342,2026-06-06,Manoj769,Bangalore
+Digital Thermometer,Medical Devices,4,963,2026-06-08,Suresh315,Chennai
+Resistance Bands,Fitness Equipment,3,1740,2026-03-21,Priya181,Hyderabad
+Health Supplement,Nutrition,2,1104,2026-02-25,Ramesh229,Chennai
+Foam Roller,Recovery,2,1657,2026-06-20,Suresh693,Chennai
+Foam Roller,Recovery,8,2283,2026-07-29,Sneha759,Delhi
+Foam Roller,Recovery,10,1739,2026-04-18,Divya771,Hyderabad
+Blood Pressure Monitor,Medical Devices,3,4201,2026-04-09,Kavya167,Hyderabad
+Protein Powder,Nutrition,5,2795,2026-04-06,Divya574,Bangalore
+Foam Roller,Recovery,6,2341,2026-03-10,Suresh863,Bangalore
+Massage Gun,Recovery,6,14312,2026-04-05,Ravi990,Chennai
+Smart Watch,Health Electronics,7,5054,2026-09-07,Suresh251,Hyderabad
+Dumbbells,Fitness Equipment,4,5200,2026-09-11,Meena307,Chennai
+Digital Thermometer,Medical Devices,1,939,2026-01-05,Kavya828,Mumbai
+Health Supplement,Nutrition,6,1881,2026-01-02,Sneha594,Delhi
+Treadmill,Fitness Equipment,4,44373,2026-06-20,Sai380,Delhi
+Digital Thermometer,Medical Devices,9,754,2026-04-11,Swathi888,Hyderabad
+Resistance Bands,Fitness Equipment,10,1420,2026-05-29,Keerthi873,Bangalore
+Protein Powder,Nutrition,5,2562,2026-01-10,Swathi703,Hyderabad
+Resistance Bands,Fitness Equipment,7,1249,2026-04-29,Suresh954,Delhi
+Treadmill,Fitness Equipment,8,59694,2026-06-03,Priya936,Chennai
+Massage Gun,Recovery,10,6163,2026-07-22,Meena104,Delhi
+Treadmill,Fitness Equipment,1,54071,2026-08-19,Vijay506,Hyderabad
+Digital Thermometer,Medical Devices,1,227,2026-05-21,Keerthi933,Delhi
+Digital Thermometer,Medical Devices,1,663,2026-06-06,Lakshmi779,Hyderabad
+Resistance Bands,Fitness Equipment,10,737,2026-05-28,Sneha975,Chennai
+Digital Thermometer,Medical Devices,9,893,2026-06-18,Kiran658,Chennai
+Protein Powder,Nutrition,7,1526,2026-06-18,Vijay591,Hyderabad
+Yoga Mat,Fitness,3,1557,2026-03-28,Manoj787,Mumbai
+Digital Thermometer,Medical Devices,3,586,2026-04-15,Kiran470,Hyderabad
+Smart Watch,Health Electronics,5,19770,2026-02-05,Rahul259,Hyderabad
+Protein Powder,Nutrition,4,1470,2026-05-19,Kiran216,Bangalore
+Blood Pressure Monitor,Medical Devices,2,5099,2026-08-27,Sai225,Bangalore
+Massage Gun,Recovery,10,6559,2026-02-12,Kavya907,Hyderabad
+Blood Pressure Monitor,Medical Devices,3,4177,2026-04-07,Keerthi356,Hyderabad
+Health Supplement,Nutrition,2,759,2026-03-25,Arjun450,Chennai
+Fitness Shoes,Sportswear,9,3090,2026-09-03,Kavya130,Mumbai
+Digital Thermometer,Medical Devices,7,256,2026-09-20,Pavan317,Chennai
+Treadmill,Fitness Equipment,10,88363,2026-02-04,Vijay954,Bangalore
+Fitness Shoes,Sportswear,8,4672,2026-06-14,Kavya303,Hyderabad
+Protein Powder,Nutrition,8,1970,2026-01-02,Nikhil463,Hyderabad
+Massage Gun,Recovery,6,12628,2026-06-23,Swathi867,Hyderabad
+Blood Pressure Monitor,Medical Devices,8,1698,2026-03-10,Sneha708,Delhi
+Fitness Shoes,Sportswear,2,6356,2026-03-11,Divya606,Delhi
+Fitness Shoes,Sportswear,6,2481,2026-01-17,Suresh351,Mumbai
+Fitness Shoes,Sportswear,7,3903,2026-01-20,Sneha156,Mumbai
+Massage Gun,Recovery,3,13401,2026-05-13,Pavan256,Mumbai
+Blood Pressure Monitor,Medical Devices,7,1609,2026-09-29,Kavya176,Bangalore
+Smart Watch,Health Electronics,5,15332,2026-01-12,Ravi391,Mumbai
+Dumbbells,Fitness Equipment,2,2125,2026-09-26,Lakshmi713,Hyderabad
+Blood Pressure Monitor,Medical Devices,2,1779,2026-05-16,Suresh425,Hyderabad
+Dumbbells,Fitness Equipment,10,2739,2026-02-10,Vijay150,Mumbai
+Smart Watch,Health Electronics,9,26734,2026-02-10,Keerthi691,Delhi
+Smart Watch,Health Electronics,9,23558,2026-06-02,Sneha513,Hyderabad
+Smart Watch,Health Electronics,7,5046,2026-06-20,Meena858,Hyderabad
+Dumbbells,Fitness Equipment,2,1772,2026-01-03,Sneha588,Hyderabad
+Resistance Bands,Fitness Equipment,6,1131,2026-02-24,Meena262,Delhi
+Fitness Shoes,Sportswear,4,2171,2026-06-21,Kiran289,Delhi
+Foam Roller,Recovery,2,568,2026-08-29,Anjali846,Chennai
+Dumbbells,Fitness Equipment,9,2954,2026-07-28,Ravi797,Delhi
+Smart Watch,Health Electronics,10,28039,2026-04-07,Divya660,Chennai
+Protein Powder,Nutrition,7,2064,2026-07-18,Anjali944,Delhi
+Smart Watch,Health Electronics,6,6463,2026-07-27,Nikhil521,Delhi
+Smart Watch,Health Electronics,5,10160,2026-03-05,Swathi361,Delhi
+Resistance Bands,Fitness Equipment,1,534,2026-07-27,Nikhil295,Mumbai
+Foam Roller,Recovery,3,2861,2026-04-05,Nikhil222,Chennai
+Dumbbells,Fitness Equipment,1,2891,2026-05-08,Priya848,Hyderabad
+Massage Gun,Recovery,7,4178,2026-04-22,Meena215,Delhi
+Protein Powder,Nutrition,4,4137,2026-02-26,Ravi523,Hyderabad
+Blood Pressure Monitor,Medical Devices,4,4662,2026-03-15,Arjun841,Hyderabad
+Blood Pressure Monitor,Medical Devices,6,4367,2026-07-13,Sai796,Mumbai
+Resistance Bands,Fitness Equipment,4,1600,2026-03-16,Anjali498,Mumbai
+Treadmill,Fitness Equipment,4,89213,2026-09-08,Meena547,Hyderabad
+Smart Watch,Health Electronics,1,16198,2026-08-26,Kiran162,Hyderabad
+Foam Roller,Recovery,8,2647,2026-05-29,Anjali523,Hyderabad
+Smart Watch,Health Electronics,3,11287,2026-05-24,Kiran536,Hyderabad
+Resistance Bands,Fitness Equipment,9,433,2026-08-21,Kavya410,Chennai
+Resistance Bands,Fitness Equipment,4,1709,2026-05-22,Divya499,Mumbai
+Dumbbells,Fitness Equipment,8,2806,2026-08-13,Arjun117,Chennai
+Massage Gun,Recovery,8,8300,2026-04-23,Keerthi621,Chennai
+Yoga Mat,Fitness,5,2018,2026-09-25,Meena806,Hyderabad
+Smart Watch,Health Electronics,9,28196,2026-06-08,Pavan120,Hyderabad
+Health Supplement,Nutrition,2,1488,2026-05-25,Meena929,Chennai
+Massage Gun,Recovery,9,12053,2026-09-29,Kiran742,Bangalore
+Fitness Shoes,Sportswear,1,2721,2026-01-11,Suresh886,Delhi
+Digital Thermometer,Medical Devices,10,499,2026-01-01,Divya298,Chennai
+Yoga Mat,Fitness,5,2240,2026-05-09,Meena700,Chennai
+Massage Gun,Recovery,7,12974,2026-07-02,Sneha489,Bangalore
+Health Supplement,Nutrition,4,1503,2026-06-16,Priya978,Mumbai
+Blood Pressure Monitor,Medical Devices,8,2975,2026-09-30,Suresh604,Chennai
+Digital Thermometer,Medical Devices,9,166,2026-02-09,Sneha678,Chennai
+Treadmill,Fitness Equipment,7,30751,2026-04-15,Ramesh522,Delhi
+Foam Roller,Recovery,2,920,2026-08-14,Arjun326,Chennai
+Treadmill,Fitness Equipment,6,37695,2026-01-19,Meena111,Delhi
+Digital Thermometer,Medical Devices,2,437,2026-08-19,Anjali195,Mumbai
+Treadmill,Fitness Equipment,10,40568,2026-02-17,Meena910,Delhi
+Fitness Shoes,Sportswear,4,1861,2026-09-01,Meena654,Chennai
+Massage Gun,Recovery,1,10020,2026-04-21,Swathi438,Hyderabad
+Yoga Mat,Fitness,9,2887,2026-04-28,Nikhil384,Hyderabad
+Digital Thermometer,Medical Devices,6,515,2026-08-20,Keerthi812,Chennai
+Protein Powder,Nutrition,2,3769,2026-01-11,Meena297,Chennai
+Dumbbells,Fitness Equipment,4,7041,2026-01-24,Kiran300,Chennai
+Treadmill,Fitness Equipment,3,63666,2026-08-24,Priya777,Bangalore
+Treadmill,Fitness Equipment,10,42631,2026-01-17,Sneha843,Chennai
+Blood Pressure Monitor,Medical Devices,5,4537,2026-03-20,Rahul953,Chennai
+Resistance Bands,Fitness Equipment,7,315,2026-03-29,Kavya135,Delhi
+Dumbbells,Fitness Equipment,7,1889,2026-02-13,Kiran316,Hyderabad
+Dumbbells,Fitness Equipment,7,1888,2026-08-11,Vijay816,Chennai
+Smart Watch,Health Electronics,9,25387,2026-09-29,Nikhil699,Mumbai
+Resistance Bands,Fitness Equipment,3,1997,2026-09-30,Nikhil320,Bangalore
+Digital Thermometer,Medical Devices,3,775,2026-08-16,Meena423,Mumbai
+Health Supplement,Nutrition,4,3504,2026-01-11,Anjali515,Mumbai
+Digital Thermometer,Medical Devices,9,626,2026-02-16,Nikhil218,Chennai
+Protein Powder,Nutrition,4,4218,2026-02-27,Keerthi590,Bangalore
+Massage Gun,Recovery,10,13672,2026-03-11,Priya630,Chennai
+Fitness Shoes,Sportswear,4,2535,2026-05-04,Priya620,Delhi
+Fitness Shoes,Sportswear,2,3478,2026-02-12,Suresh637,Delhi
+Yoga Mat,Fitness,5,1569,2026-06-20,Keerthi239,Chennai
+Protein Powder,Nutrition,7,3209,2026-04-16,Arjun922,Chennai
+Foam Roller,Recovery,2,2621,2026-03-17,Lakshmi552,Hyderabad
+Digital Thermometer,Medical Devices,9,232,2026-06-14,Ramesh268,Mumbai
+Blood Pressure Monitor,Medical Devices,1,1271,2026-01-06,Ravi893,Hyderabad
+Foam Roller,Recovery,1,842,2026-06-15,Kiran875,Delhi
+Yoga Mat,Fitness,2,1279,2026-09-04,Sneha549,Delhi
+Massage Gun,Recovery,6,2937,2026-01-14,Arjun461,Mumbai
+Digital Thermometer,Medical Devices,2,963,2026-09-16,Manoj870,Mumbai
+Smart Watch,Health Electronics,3,4786,2026-03-17,Lakshmi784,Delhi
+Fitness Shoes,Sportswear,8,3852,2026-09-09,Sai886,Hyderabad
+Dumbbells,Fitness Equipment,3,7753,2026-05-28,Sai736,Hyderabad
+Blood Pressure Monitor,Medical Devices,7,4841,2026-01-21,Sai545,Bangalore
+Protein Powder,Nutrition,1,3654,2026-01-26,Ravi777,Mumbai
+Treadmill,Fitness Equipment,7,70265,2026-06-24,Rahul470,Delhi
+Smart Watch,Health Electronics,9,6913,2026-07-27,Pavan676,Hyderabad
+Treadmill,Fitness Equipment,7,44565,2026-05-18,Sai333,Mumbai
+Blood Pressure Monitor,Medical Devices,1,3999,2026-06-08,Kiran903,Delhi
+Digital Thermometer,Medical Devices,1,715,2026-01-21,Divya154,Bangalore
+Treadmill,Fitness Equipment,4,78763,2026-08-24,Lakshmi463,Hyderabad
+Health Supplement,Nutrition,9,1256,2026-03-06,Rahul162,Mumbai
+Protein Powder,Nutrition,2,4744,2026-07-20,Meena954,Delhi
+Yoga Mat,Fitness,9,2667,2026-01-03,Meena740,Mumbai
+Massage Gun,Recovery,3,10969,2026-08-31,Divya354,Delhi
+Treadmill,Fitness Equipment,7,49600,2026-09-28,Rahul509,Mumbai
+Treadmill,Fitness Equipment,3,33589,2026-03-14,Pavan733,Mumbai
+Foam Roller,Recovery,3,2636,2026-06-07,Swathi404,Chennai
+Protein Powder,Nutrition,4,4802,2026-08-03,Arjun477,Delhi
+Digital Thermometer,Medical Devices,4,256,2026-06-08,Meena184,Bangalore
+Protein Powder,Nutrition,7,2394,2026-07-19,Kiran463,Mumbai
+Smart Watch,Health Electronics,1,8114,2026-07-26,Vijay838,Mumbai
+Blood Pressure Monitor,Medical Devices,9,2531,2026-05-31,Anjali986,Hyderabad
+Massage Gun,Recovery,2,9697,2026-07-13,Manoj521,Mumbai
+Smart Watch,Health Electronics,9,20864,2026-09-29,Sai123,Chennai
+Foam Roller,Recovery,2,2008,2026-05-04,Keerthi814,Delhi
+Fitness Shoes,Sportswear,3,3756,2026-06-19,Arjun576,Delhi
+Foam Roller,Recovery,1,1892,2026-01-20,Manoj803,Hyderabad
+Smart Watch,Health Electronics,4,8705,2026-04-21,Anjali883,Mumbai
+Treadmill,Fitness Equipment,9,58779,2026-06-11,Sneha504,Chennai
+Dumbbells,Fitness Equipment,2,1737,2026-02-18,Lakshmi565,Delhi
+Resistance Bands,Fitness Equipment,2,1414,2026-01-25,Lakshmi303,Chennai
+Health Supplement,Nutrition,2,3084,2026-04-12,Divya321,Chennai
+Digital Thermometer,Medical Devices,6,381,2026-01-21,Swathi975,Hyderabad
+Foam Roller,Recovery,2,843,2026-09-16,Divya876,Mumbai
+Digital Thermometer,Medical Devices,2,622,2026-09-14,Swathi897,Delhi
+Foam Roller,Recovery,9,534,2026-01-06,Kiran313,Hyderabad
+Protein Powder,Nutrition,10,1637,2026-06-21,Swathi214,Delhi
+Dumbbells,Fitness Equipment,10,5291,2026-01-07,Vijay804,Bangalore
+Blood Pressure Monitor,Medical Devices,8,5074,2026-05-16,Manoj942,Delhi
+Yoga Mat,Fitness,7,512,2026-04-20,Pavan476,Delhi
+Blood Pressure Monitor,Medical Devices,3,1474,2026-02-09,Manoj718,Hyderabad
+Yoga Mat,Fitness,9,2855,2026-05-27,Sneha652,Mumbai
+Treadmill,Fitness Equipment,4,77035,2026-09-29,Divya451,Hyderabad
+Health Supplement,Nutrition,3,3598,2026-07-28,Anjali274,Chennai
+Treadmill,Fitness Equipment,10,91303,2026-03-17,Rahul345,Bangalore
+Smart Watch,Health Electronics,6,13065,2026-08-03,Rahul194,Mumbai
+Protein Powder,Nutrition,5,1732,2026-09-24,Keerthi517,Hyderabad
+Blood Pressure Monitor,Medical Devices,1,3764,2026-05-02,Divya504,Bangalore
+Digital Thermometer,Medical Devices,1,681,2026-02-19,Sneha864,Chennai
+Digital Thermometer,Medical Devices,1,193,2026-04-09,Priya632,Chennai
+Blood Pressure Monitor,Medical Devices,7,4259,2026-02-15,Ravi495,Chennai
+Massage Gun,Recovery,8,3190,2026-06-14,Anjali202,Chennai
+Treadmill,Fitness Equipment,5,69634,2026-07-02,Priya937,Bangalore
+Fitness Shoes,Sportswear,9,3002,2026-08-12,Nikhil211,Bangalore
+Massage Gun,Recovery,8,8954,2026-03-15,Lakshmi315,Delhi
+Smart Watch,Health Electronics,5,26564,2026-01-21,Sneha347,Mumbai
+Fitness Shoes,Sportswear,1,5823,2026-08-18,Anjali450,Mumbai
+Treadmill,Fitness Equipment,8,97127,2026-09-28,Arjun517,Hyderabad
+Treadmill,Fitness Equipment,4,74060,2026-03-05,Priya204,Mumbai
+Resistance Bands,Fitness Equipment,1,1540,2026-01-25,Sai477,Delhi
+Health Supplement,Nutrition,2,3790,2026-05-29,Manoj687,Chennai
+Protein Powder,Nutrition,8,2245,2026-03-26,Pavan874,Delhi
+Foam Roller,Recovery,10,2223,2026-07-12,Manoj950,Delhi
+Massage Gun,Recovery,10,14443,2026-08-22,Rahul634,Mumbai
+Dumbbells,Fitness Equipment,9,7418,2026-07-07,Nikhil493,Delhi
+Treadmill,Fitness Equipment,3,68300,2026-02-22,Manoj121,Delhi
+Smart Watch,Health Electronics,10,22276,2026-04-10,Kiran294,Hyderabad
+Dumbbells,Fitness Equipment,4,3411,2026-03-14,Swathi513,Delhi
+Fitness Shoes,Sportswear,1,4840,2026-01-12,Keerthi584,Chennai
+Digital Thermometer,Medical Devices,2,618,2026-08-02,Ravi757,Bangalore
+Dumbbells,Fitness Equipment,4,3535,2026-04-27,Sai721,Chennai
+Blood Pressure Monitor,Medical Devices,10,3963,2026-05-05,Sai241,Delhi
+Protein Powder,Nutrition,5,4591,2026-01-02,Kavya517,Hyderabad
+Dumbbells,Fitness Equipment,10,5997,2026-08-11,Suresh130,Delhi
+Dumbbells,Fitness Equipment,7,5837,2026-07-03,Keerthi792,Chennai
+Digital Thermometer,Medical Devices,5,245,2026-07-15,Nikhil487,Mumbai
+Digital Thermometer,Medical Devices,2,999,2026-04-21,Ravi675,Bangalore
+Digital Thermometer,Medical Devices,2,838,2026-03-16,Anjali926,Delhi
+Blood Pressure Monitor,Medical Devices,10,3759,2026-03-03,Meena963,Chennai
+Smart Watch,Health Electronics,7,19742,2026-03-18,Vijay701,Mumbai
+Fitness Shoes,Sportswear,5,6628,2026-01-21,Ravi952,Chennai
+Resistance Bands,Fitness Equipment,4,302,2026-01-04,Sai544,Delhi
+Digital Thermometer,Medical Devices,7,214,2026-01-29,Sneha953,Bangalore
+Fitness Shoes,Sportswear,4,2114,2026-02-11,Anjali933,Delhi
+Blood Pressure Monitor,Medical Devices,1,1392,2026-02-03,Pavan640,Hyderabad
+Health Supplement,Nutrition,5,828,2026-05-31,Lakshmi174,Mumbai
+Protein Powder,Nutrition,8,2870,2026-04-01,Sai300,Delhi
+Resistance Bands,Fitness Equipment,7,1584,2026-03-15,Priya847,Mumbai
+Treadmill,Fitness Equipment,5,60405,2026-01-09,Divya551,Bangalore
+Health Supplement,Nutrition,5,2100,2026-03-25,Priya831,Bangalore
+Dumbbells,Fitness Equipment,7,7250,2026-07-30,Arjun710,Chennai
+Blood Pressure Monitor,Medical Devices,1,5550,2026-02-17,Divya842,Bangalore
+Digital Thermometer,Medical Devices,1,314,2026-02-04,Meena123,Bangalore
+Fitness Shoes,Sportswear,9,3652,2026-02-04,Anjali303,Chennai
+Resistance Bands,Fitness Equipment,4,482,2026-03-09,Suresh466,Chennai
+Treadmill,Fitness Equipment,6,77600,2026-02-25,Ramesh657,Hyderabad
+Resistance Bands,Fitness Equipment,1,719,2026-03-26,Sneha180,Delhi
+Dumbbells,Fitness Equipment,1,4111,2026-02-27,Vijay868,Bangalore
+Treadmill,Fitness Equipment,9,66648,2026-03-09,Ramesh607,Delhi
+Health Supplement,Nutrition,6,2040,2026-03-04,Anjali323,Bangalore
+Yoga Mat,Fitness,9,1715,2026-06-07,Meena706,Hyderabad
+Foam Roller,Recovery,3,2870,2026-06-15,Priya244,Bangalore
+Smart Watch,Health Electronics,9,3409,2026-02-18,Swathi382,Mumbai
+Protein Powder,Nutrition,4,3050,2026-04-15,Meena951,Hyderabad
+Digital Thermometer,Medical Devices,8,697,2026-02-25,Arjun574,Bangalore
+Massage Gun,Recovery,9,4790,2026-04-06,Rahul114,Chennai
+Massage Gun,Recovery,2,10053,2026-04-04,Sneha743,Chennai
+Smart Watch,Health Electronics,9,15758,2026-03-29,Nikhil659,Mumbai
+Foam Roller,Recovery,8,2984,2026-08-13,Vijay876,Bangalore
+Treadmill,Fitness Equipment,9,56854,2026-02-28,Sai281,Delhi
+Massage Gun,Recovery,6,8691,2026-01-15,Suresh334,Delhi
+Resistance Bands,Fitness Equipment,1,1309,2026-08-08,Pavan797,Hyderabad
+Resistance Bands,Fitness Equipment,8,1733,2026-02-01,Pavan981,Bangalore
+Treadmill,Fitness Equipment,7,92931,2026-03-17,Ravi473,Hyderabad
+Digital Thermometer,Medical Devices,9,297,2026-02-13,Kiran284,Chennai
+Massage Gun,Recovery,6,7372,2026-03-23,Rahul502,Mumbai
+Protein Powder,Nutrition,6,3408,2026-08-18,Sneha803,Mumbai
+Digital Thermometer,Medical Devices,10,303,2026-02-07,Sai766,Chennai
+Yoga Mat,Fitness,10,1068,2026-06-17,Nikhil507,Bangalore
+Health Supplement,Nutrition,1,2783,2026-05-18,Vijay540,Delhi
+Health Supplement,Nutrition,9,1682,2026-01-09,Kiran229,Hyderabad
+Blood Pressure Monitor,Medical Devices,1,5957,2026-04-28,Keerthi543,Delhi
+Foam Roller,Recovery,5,2578,2026-05-30,Arjun405,Delhi
+Blood Pressure Monitor,Medical Devices,10,5195,2026-02-03,Rahul390,Mumbai
+Resistance Bands,Fitness Equipment,9,1339,2026-08-23,Priya811,Bangalore
+Yoga Mat,Fitness,6,1233,2026-05-01,Keerthi511,Bangalore
+Digital Thermometer,Medical Devices,8,350,2026-04-06,Ravi730,Bangalore
+Smart Watch,Health Electronics,7,27567,2026-02-09,Lakshmi165,Bangalore
+Resistance Bands,Fitness Equipment,10,1389,2026-09-10,Pavan654,Chennai
+Health Supplement,Nutrition,10,2287,2026-09-16,Divya835,Chennai
+Dumbbells,Fitness Equipment,6,5228,2026-04-11,Divya867,Hyderabad
+Massage Gun,Recovery,9,7214,2026-09-26,Ravi508,Chennai
+Massage Gun,Recovery,4,8040,2026-01-27,Meena130,Mumbai
+Digital Thermometer,Medical Devices,7,895,2026-06-19,Ramesh682,Hyderabad
+Protein Powder,Nutrition,2,1887,2026-05-24,Keerthi280,Mumbai
+Blood Pressure Monitor,Medical Devices,5,3057,2026-04-04,Sai502,Bangalore
+Health Supplement,Nutrition,7,1303,2026-03-13,Kavya946,Delhi
+Smart Watch,Health Electronics,3,22915,2026-05-07,Arjun799,Delhi
+Foam Roller,Recovery,10,1602,2026-07-20,Vijay987,Chennai
+Fitness Shoes,Sportswear,10,2344,2026-06-24,Pavan268,Mumbai
+Yoga Mat,Fitness,6,1264,2026-09-30,Suresh839,Bangalore
+Dumbbells,Fitness Equipment,6,4187,2026-03-27,Nikhil275,Bangalore
+Health Supplement,Nutrition,4,3345,2026-04-24,Suresh642,Delhi
+Massage Gun,Recovery,6,3674,2026-04-25,Sai208,Delhi
+Foam Roller,Recovery,7,2012,2026-07-07,Ravi761,Bangalore
+Fitness Shoes,Sportswear,5,4664,2026-06-16,Ravi724,Mumbai
+Resistance Bands,Fitness Equipment,5,1989,2026-05-14,Vijay107,Chennai
+Smart Watch,Health Electronics,10,5931,2026-09-20,Nikhil176,Hyderabad
+Resistance Bands,Fitness Equipment,10,1291,2026-03-26,Priya303,Delhi
+Foam Roller,Recovery,6,2883,2026-05-01,Meena912,Hyderabad
+Yoga Mat,Fitness,6,1360,2026-07-21,Manoj190,Mumbai
+Smart Watch,Health Electronics,8,5523,2026-06-17,Suresh307,Hyderabad
+Treadmill,Fitness Equipment,3,72986,2026-04-20,Swathi587,Delhi
+Yoga Mat,Fitness,4,2245,2026-08-18,Suresh146,Hyderabad
+Health Supplement,Nutrition,5,3967,2026-03-18,Sneha390,Hyderabad
+Protein Powder,Nutrition,6,1926,2026-08-22,Pavan730,Delhi
+Yoga Mat,Fitness,10,2645,2026-08-31,Keerthi161,Delhi
+Foam Roller,Recovery,3,2457,2026-01-04,Meena469,Chennai
+Treadmill,Fitness Equipment,9,94046,2026-06-28,Pavan266,Chennai
+Blood Pressure Monitor,Medical Devices,9,4507,2026-08-02,Priya432,Delhi
+Fitness Shoes,Sportswear,7,7990,2026-08-19,Keerthi552,Mumbai
+Smart Watch,Health Electronics,3,6529,2026-09-10,Suresh622,Mumbai
+Foam Roller,Recovery,5,2717,2026-06-23,Nikhil532,Mumbai
+Blood Pressure Monitor,Medical Devices,10,3359,2026-04-02,Sai231,Mumbai
+Health Supplement,Nutrition,2,839,2026-08-08,Suresh126,Chennai
+Protein Powder,Nutrition,1,1375,2026-03-21,Manoj481,Chennai
+Health Supplement,Nutrition,4,797,2026-05-02,Arjun758,Hyderabad
+Blood Pressure Monitor,Medical Devices,6,1567,2026-04-17,Ravi431,Mumbai
+Resistance Bands,Fitness Equipment,1,1368,2026-04-15,Swathi668,Chennai
+Massage Gun,Recovery,2,6651,2026-06-05,Manoj971,Delhi
+Fitness Shoes,Sportswear,10,4638,2026-07-17,Nikhil734,Bangalore
+Dumbbells,Fitness Equipment,8,7966,2026-04-24,Swathi559,Bangalore
+Foam Roller,Recovery,5,2192,2026-03-18,Ravi232,Mumbai
+Fitness Shoes,Sportswear,3,4521,2026-05-28,Anjali171,Delhi
+Treadmill,Fitness Equipment,3,96219,2026-02-24,Arjun294,Hyderabad
+Dumbbells,Fitness Equipment,4,5969,2026-03-15,Ravi741,Mumbai
+Health Supplement,Nutrition,2,741,2026-07-13,Ravi192,Delhi
+Treadmill,Fitness Equipment,7,59392,2026-09-08,Kiran308,Delhi
+Resistance Bands,Fitness Equipment,6,349,2026-09-30,Kiran885,Bangalore
+Digital Thermometer,Medical Devices,9,873,2026-02-14,Ramesh281,Chennai
+Blood Pressure Monitor,Medical Devices,8,4803,2026-06-14,Meena864,Mumbai
+Fitness Shoes,Sportswear,5,5463,2026-03-11,Pavan258,Delhi
+Protein Powder,Nutrition,6,1783,2026-02-16,Sai936,Bangalore
+Digital Thermometer,Medical Devices,9,396,2026-02-22,Pavan154,Delhi
+Dumbbells,Fitness Equipment,8,1990,2026-08-29,Kiran164,Bangalore
+Massage Gun,Recovery,4,5249,2026-08-15,Anjali678,Delhi
+Dumbbells,Fitness Equipment,1,3669,2026-04-04,Kiran258,Delhi
+Health Supplement,Nutrition,10,1376,2026-07-30,Kiran203,Bangalore
+Blood Pressure Monitor,Medical Devices,10,1617,2026-06-05,Vijay666,Delhi
+Dumbbells,Fitness Equipment,4,2364,2026-06-16,Kavya819,Chennai
+Health Supplement,Nutrition,9,1332,2026-06-13,Keerthi415,Mumbai
+Digital Thermometer,Medical Devices,2,650,2026-08-26,Divya324,Chennai
+Digital Thermometer,Medical Devices,5,403,2026-01-11,Nikhil440,Mumbai
+Smart Watch,Health Electronics,10,28567,2026-09-13,Lakshmi832,Hyderabad
+Dumbbells,Fitness Equipment,8,5944,2026-08-13,Ravi291,Delhi
+Dumbbells,Fitness Equipment,8,1572,2026-03-24,Priya439,Chennai
+Massage Gun,Recovery,10,9676,2026-09-27,Divya836,Hyderabad
+Treadmill,Fitness Equipment,8,67844,2026-03-12,Nikhil671,Delhi
+Treadmill,Fitness Equipment,3,44561,2026-01-15,Sneha237,Mumbai
+Digital Thermometer,Medical Devices,1,711,2026-04-07,Kiran138,Hyderabad
+Smart Watch,Health Electronics,9,18021,2026-08-27,Sai615,Delhi
+Health Supplement,Nutrition,8,1930,2026-04-18,Kavya783,Delhi
+Blood Pressure Monitor,Medical Devices,3,2939,2026-07-21,Priya917,Hyderabad
+Treadmill,Fitness Equipment,1,61455,2026-06-04,Vijay497,Hyderabad
+Health Supplement,Nutrition,10,1813,2026-02-26,Ramesh168,Mumbai
+Dumbbells,Fitness Equipment,4,6963,2026-02-17,Ravi897,Chennai
+Massage Gun,Recovery,10,4743,2026-06-28,Ravi194,Mumbai
+Treadmill,Fitness Equipment,8,61331,2026-09-19,Anjali158,Delhi
+Treadmill,Fitness Equipment,1,79471,2026-08-29,Rahul315,Delhi
+Resistance Bands,Fitness Equipment,2,1546,2026-02-28,Arjun507,Hyderabad
+Massage Gun,Recovery,3,13989,2026-03-19,Sneha312,Chennai
+Yoga Mat,Fitness,8,2179,2026-08-27,Arjun154,Hyderabad
+Health Supplement,Nutrition,2,974,2026-02-27,Pavan512,Hyderabad
+Dumbbells,Fitness Equipment,3,1342,2026-03-03,Lakshmi838,Hyderabad
+Resistance Bands,Fitness Equipment,3,1780,2026-06-25,Sai878,Bangalore
+Treadmill,Fitness Equipment,4,53061,2026-01-19,Manoj685,Chennai
+Digital Thermometer,Medical Devices,7,495,2026-04-17,Keerthi113,Chennai
+Resistance Bands,Fitness Equipment,5,1890,2026-09-24,Sneha253,Mumbai
+Dumbbells,Fitness Equipment,2,1738,2026-05-26,Ravi908,Delhi
+Massage Gun,Recovery,7,12245,2026-09-26,Arjun445,Hyderabad
+Health Supplement,Nutrition,6,1051,2026-03-18,Lakshmi393,Bangalore
+Dumbbells,Fitness Equipment,1,7881,2026-04-10,Kavya458,Bangalore
+Yoga Mat,Fitness,1,1379,2026-06-26,Arjun897,Delhi
+Resistance Bands,Fitness Equipment,1,1889,2026-02-19,Vijay564,Hyderabad
+Dumbbells,Fitness Equipment,5,2562,2026-08-06,Kavya662,Mumbai
+Fitness Shoes,Sportswear,6,4673,2026-06-07,Arjun317,Hyderabad
+Smart Watch,Health Electronics,2,26335,2026-03-21,Ravi244,Bangalore
+Protein Powder,Nutrition,7,1704,2026-07-05,Lakshmi265,Bangalore
+Treadmill,Fitness Equipment,9,89861,2026-05-23,Priya270,Delhi
+Health Supplement,Nutrition,1,2314,2026-02-13,Swathi536,Delhi
+Protein Powder,Nutrition,7,2134,2026-03-08,Arjun980,Mumbai
+Fitness Shoes,Sportswear,2,4304,2026-06-13,Meena984,Chennai
+Massage Gun,Recovery,1,5634,2026-05-27,Priya355,Hyderabad
+Yoga Mat,Fitness,1,1987,2026-07-27,Divya677,Bangalore
+Blood Pressure Monitor,Medical Devices,7,3525,2026-02-03,Kavya553,Delhi
+Massage Gun,Recovery,6,8094,2026-05-26,Swathi963,Chennai
+Treadmill,Fitness Equipment,5,87858,2026-02-24,Arjun956,Mumbai
+Resistance Bands,Fitness Equipment,7,305,2026-02-26,Priya668,Hyderabad
+Yoga Mat,Fitness,9,1002,2026-01-20,Anjali127,Bangalore
+Fitness Shoes,Sportswear,4,2322,2026-08-19,Pavan382,Hyderabad
+Resistance Bands,Fitness Equipment,3,1167,2026-09-22,Priya657,Hyderabad
+Fitness Shoes,Sportswear,2,7453,2026-07-07,Ramesh209,Chennai
+Health Supplement,Nutrition,1,3448,2026-02-25,Suresh821,Hyderabad
+Resistance Bands,Fitness Equipment,2,700,2026-09-18,Priya518,Bangalore
+Yoga Mat,Fitness,4,720,2026-08-25,Vijay440,Hyderabad
+Protein Powder,Nutrition,5,2679,2026-09-29,Meena603,Mumbai
+Treadmill,Fitness Equipment,7,47935,2026-02-28,Anjali125,Hyderabad
+Health Supplement,Nutrition,7,1244,2026-06-28,Keerthi980,Delhi
+Massage Gun,Recovery,6,9320,2026-08-07,Swathi710,Mumbai
+Resistance Bands,Fitness Equipment,1,718,2026-03-03,Keerthi105,Mumbai

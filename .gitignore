@@ -1,0 +1,10 @@
+﻿*.pem
+*.key
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+streamlit_env/
+*.log
+.ipynb_checkpoints/
