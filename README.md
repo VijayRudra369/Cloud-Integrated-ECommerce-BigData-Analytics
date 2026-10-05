@@ -1,90 +1,232 @@
-# ☁️ Cloud-Integrated E-Commerce Big Data Analytics
+# Cloud-Integrated E-Commerce Big Data Analytics Using Hadoop and MapReduce
 
-> An end-to-end Big Data Analytics project integrating AWS Cloud, Hadoop, MapReduce, and Streamlit for e-commerce sales analysis.
+## 📌 Project Overview
 
-## 📌 Overview
+The **Cloud-Integrated E-Commerce Big Data Analytics Using Hadoop and MapReduce** project is a cloud-based big data analytics system designed to process and analyze e-commerce sales data.
 
-This project demonstrates an end-to-end Big Data Analytics system for processing, analyzing, and visualizing e-commerce sales data.
+The system combines **Amazon S3, AWS EC2, Hadoop HDFS, YARN, Java MapReduce, and Streamlit** to create a complete cloud-integrated data processing pipeline.
 
-The system integrates **Amazon S3**, **AWS EC2**, **Hadoop HDFS**, **YARN**, **Java MapReduce**, and **Streamlit** to create a complete cloud-based Big Data analytics pipeline.
-
-Amazon S3 is used for cloud storage, AWS EC2 provides the cloud computing environment, Hadoop HDFS provides distributed storage, YARN manages processing resources, and Java MapReduce programs perform the required analytics.
-
-The final analytical results are presented through an interactive Streamlit dashboard.
+The e-commerce dataset contains information such as products, categories, quantities, prices, dates, customers, and cities. The data is stored in Amazon S3, processed using Hadoop and Java MapReduce on an AWS EC2 instance, and the analytical results are presented through an interactive Streamlit dashboard.
 
 ---
 
 ## 🎯 Objectives
 
-- Store e-commerce datasets in Amazon S3.
+- Store e-commerce data securely in the cloud using Amazon S3.
 - Use AWS EC2 as the cloud computing environment.
-- Store datasets using Hadoop HDFS.
-- Use YARN for resource management.
-- Process datasets using Java MapReduce.
-- Perform product-wise sales analysis.
-- Perform category-wise sales analysis.
-- Perform city-wise sales analysis.
-- Analyze monthly sales trends.
+- Store large datasets using Hadoop HDFS.
+- Manage processing resources using YARN.
+- Process and analyze the dataset using Java MapReduce.
+- Generate product-wise, category-wise, city-wise, and monthly sales analytics.
 - Identify top-selling products.
-- Display analytical results through an interactive Streamlit dashboard.
-- Demonstrate the integration of Cloud Computing and Big Data technologies.
+- Display the analytical results through an interactive Streamlit dashboard.
 
 ---
 
 ## 🏗️ System Architecture
 
 ```text
-                         ┌──────────────────┐
-                         │       User       │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    Streamlit     │
-                         │    Dashboard     │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    Amazon S3     │
-                         │  Cloud Storage   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │     AWS EC2      │
-                         │  Ubuntu Server   │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │    Hadoop HDFS   │
-                         │  Data Storage    │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │      YARN        │
-                         │ Resource Manager │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                    ┌──────────────────────────┐
-                    │      Java MapReduce      │
-                    ├──────────────────────────┤
-                    │ Product Sales             │
-                    │ Category Sales            │
-                    │ City Sales                │
-                    │ Monthly Sales             │
-                    │ Top Products              │
-                    └────────────┬─────────────┘
-                                 │
-                                 ▼
-                         ┌──────────────────┐
-                         │    Streamlit     │
-                         │  Visualization   │
-                         └──────────────────┘───────┘
+                    ┌──────────────────────┐
+                    │        User          │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Streamlit Dashboard  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     Amazon S3        │
+                    │   Cloud Storage      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      AWS EC2         │
+                    │   Ubuntu Server      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     Hadoop HDFS      │
+                    │   Data Storage       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │        YARN          │
+                    │ Resource Management  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   Java MapReduce     │
+                    │   Data Processing    │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Analytical Results   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Streamlit Dashboard  │
+                    │ Visualization        │
+                    └──────────────────────┘
+```
 
+---
+
+## 🔄 Project Flow
+
+The complete project follows this pipeline:
+
+**S3 Stores → EC2 Runs → HDFS Holds → YARN Manages → MapReduce Analyzes → Streamlit Displays**
+
+### Step 1: Data Storage
+
+The e-commerce CSV dataset is uploaded to **Amazon S3**.
+
+### Step 2: Cloud Processing
+
+An **AWS EC2 Ubuntu instance** is used as the cloud computing environment.
+
+### Step 3: HDFS Storage
+
+The dataset is transferred into **Hadoop HDFS** for distributed storage.
+
+### Step 4: Resource Management
+
+**YARN** manages the resources required for executing MapReduce jobs.
+
+### Step 5: MapReduce Processing
+
+Java MapReduce programs process the dataset and generate different analytical results.
+
+### Step 6: Visualization
+
+The results are displayed through an interactive **Streamlit dashboard**.
+
+---
+
+## 📊 Analytics Performed
+
+The project performs the following analytics:
+
+### 1. Product-Wise Sales
+
+Calculates the total sales revenue generated by each product.
+
+### 2. Category-Wise Sales
+
+Calculates total revenue for each product category.
+
+### 3. City-Wise Sales
+
+Analyzes total sales revenue based on customer city.
+
+### 4. Monthly Sales
+
+Calculates total sales revenue for each month.
+
+### 5. Top-Selling Products
+
+Identifies products based on their total quantity sold.
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Python | Dashboard and application development |
+| Streamlit | Interactive dashboard |
+| Java | MapReduce implementation |
+| Hadoop | Big data processing |
+| HDFS | Distributed data storage |
+| YARN | Resource management |
+| MapReduce | Data processing and analytics |
+| Amazon S3 | Cloud data storage |
+| AWS EC2 | Cloud computing environment |
+| Ubuntu | Server operating system |
+| CSV | Dataset format |
+
+---
+
+## ☁️ AWS Components
+
+### Amazon S3
+
+Amazon S3 is used as the cloud storage layer for the e-commerce dataset.
+
+It provides scalable storage for the input data before it is processed by the Hadoop environment.
+
+### AWS EC2
+
+AWS EC2 provides the virtual computing environment where Hadoop, Java MapReduce, and the Streamlit application are executed.
+
+---
+
+## 🐘 Hadoop Components
+
+### Hadoop HDFS
+
+HDFS is used to store the e-commerce dataset for processing.
+
+### YARN
+
+YARN manages the computational resources required to execute MapReduce jobs.
+
+### MapReduce
+
+MapReduce processes the e-commerce dataset and produces analytical results.
+
+---
+
+## ☕ Java MapReduce Programs
+
+The project contains multiple Java MapReduce programs.
+
+### ProductSales
+
+Calculates total revenue generated by each product.
+
+### CategorySales
+
+Calculates total revenue generated by each product category.
+
+### CitySales
+
+Calculates total revenue generated in each city.
+
+### MonthlySales
+
+Calculates total sales revenue for each month.
+
+### TopProducts
+
+Calculates the total quantity sold for each product and helps identify the top-selling products.
+
+---
+
+## 📈 Streamlit Dashboard
+
+The Streamlit dashboard provides an interactive interface for viewing the analytical results.
+
+The dashboard presents:
+
+- Total Revenue
+- Total Quantity
+- Product-wise sales
+- Category-wise sales
+- City-wise sales
+- Monthly sales trend
+- Top-selling products
+- Interactive charts and visualizations
+
+---
 
 ## 📸 Project Screenshots
 
@@ -125,3 +267,174 @@ The Java MapReduce programs process the e-commerce dataset and generate analytic
 Amazon S3 is used to store the e-commerce dataset in the cloud.
 
 ![Amazon S3 Storage](screenshots/s3.jpg)
+
+---
+
+## 📁 Project Structure
+
+```text
+ECommerce_BigData_Project/
+│
+├── Dataset/
+│   └── ecommerce_sales.csv
+│
+├── Java_Source/
+│   ├── ProductSales.java
+│   ├── CategorySales.java
+│   ├── CitySales.java
+│   ├── MonthlySales.java
+│   └── TopProducts.java
+│
+├── PPT/
+│   └── Project Presentation
+│
+├── Report/
+│   └── Project Report
+│
+├── Website/
+│   ├── app.py
+│   └── .streamlit/
+│
+├── screenshots/
+│   ├── dashboard.jpg
+│   ├── ec2.jpg
+│   ├── hadoop.jpg
+│   ├── mapreduce.jpg
+│   └── s3.jpg
+│
+├── .gitignore
+└── README.md
+```
+
+---
+
+## 📋 Dataset
+
+The e-commerce dataset is stored in CSV format.
+
+The dataset contains the following fields:
+
+| Field | Description |
+|---|---|
+| Product | Name of the product |
+| Category | Product category |
+| Quantity | Quantity sold |
+| Price | Price of the product |
+| Date | Date of sale |
+| Customer | Customer information |
+| City | Customer city |
+
+---
+
+## 🔧 Data Processing Pipeline
+
+```text
+E-Commerce CSV Dataset
+          │
+          ▼
+     Amazon S3
+          │
+          ▼
+       AWS EC2
+          │
+          ▼
+      Hadoop HDFS
+          │
+          ▼
+        YARN
+          │
+          ▼
+   Java MapReduce
+          │
+          ├── Product Sales
+          ├── Category Sales
+          ├── City Sales
+          ├── Monthly Sales
+          └── Top Products
+          │
+          ▼
+ Analytical Results
+          │
+          ▼
+ Streamlit Dashboard
+```
+
+---
+
+## ⭐ Key Features
+
+- ☁️ Cloud-based data storage using Amazon S3
+- 🖥️ AWS EC2 cloud computing environment
+- 🐘 Hadoop HDFS distributed storage
+- ⚙️ YARN resource management
+- ☕ Java MapReduce processing
+- 📊 Product-wise analytics
+- 📊 Category-wise analytics
+- 🏙️ City-wise analytics
+- 📅 Monthly sales analysis
+- 🏆 Top-selling product analysis
+- 📈 Interactive Streamlit visualizations
+- 🔄 Complete cloud-to-dashboard data pipeline
+
+---
+
+## 💡 Project Benefits
+
+- Demonstrates practical implementation of Big Data technologies.
+- Shows integration between cloud computing and Hadoop.
+- Provides scalable data processing using MapReduce.
+- Provides cloud-based storage through Amazon S3.
+- Provides an interactive dashboard for understanding analytical results.
+- Demonstrates the complete flow from raw data to visualization.
+
+---
+
+## 🎯 Project Outcome
+
+The project successfully demonstrates a complete cloud-integrated big data analytics workflow.
+
+The e-commerce dataset is stored in Amazon S3, processed on an AWS EC2 environment using Hadoop HDFS, YARN, and Java MapReduce, and the resulting analytics are presented through an interactive Streamlit dashboard.
+
+The system provides meaningful insights into product sales, category sales, city-wise sales, monthly sales trends, and top-selling products.
+
+---
+
+## 🔗 Technology Flow
+
+```text
+Amazon S3
+   ↓
+AWS EC2
+   ↓
+Hadoop HDFS
+   ↓
+YARN
+   ↓
+Java MapReduce
+   ↓
+Analytical Results
+   ↓
+Streamlit Dashboard
+```
+
+---
+
+## 📦 Repository Contents
+
+This repository contains:
+
+- E-commerce dataset
+- Java MapReduce source programs
+- Streamlit dashboard
+- Project presentation
+- Project report
+- Project screenshots
+- Project documentation
+
+---
+
+## ✅ Final Result
+
+The **Cloud-Integrated E-Commerce Big Data Analytics Using Hadoop and MapReduce** project provides an end-to-end solution for storing, processing, analyzing, and visualizing e-commerce data using cloud computing and big data technologies.
+
+The integration of **Amazon S3, AWS EC2, Hadoop HDFS, YARN, Java MapReduce, and Streamlit** demonstrates how cloud infrastructure and big data technologies can be combined to build a practical analytics system.
