@@ -65,3 +65,47 @@ The final results are displayed through a **Streamlit dashboard**.
                  │    Streamlit     │
                  │  Visualization   │
                  └──────────────────┘
+
+
+
+
+
+# 📸 Project Screenshots
+
+## 1. Streamlit Dashboard
+
+The Streamlit dashboard provides the interface for uploading the e-commerce dataset, running the analysis, and viewing the results.
+
+![Streamlit Dashboard](screenshots/dashboard.png)
+
+---
+
+## 2. AWS EC2 Instance
+
+The project is deployed on an AWS EC2 Ubuntu instance. EC2 provides the cloud computing environment where Hadoop, MapReduce, and Streamlit run.
+
+![AWS EC2 Instance](screenshots/ec2.png)
+
+---
+
+## 3. Amazon S3 Storage
+
+Amazon S3 is used to store the uploaded e-commerce dataset in the cloud before processing.
+
+![Amazon S3 Storage](screenshots/s3.png)
+
+---
+
+## 4. Hadoop HDFS and YARN
+
+Hadoop HDFS stores the dataset for processing, while YARN manages the resources required for MapReduce execution.
+
+![Hadoop HDFS and YARN](screenshots/hadoop.png)
+
+---
+
+## 5. MapReduce Results
+
+Five Java MapReduce programs are used for product-wise, category-wise, city-wise, monthly, and top-product analysis.
+
+![MapReduce Results](screenshots/mapreduce.png)
