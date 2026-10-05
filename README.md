@@ -1,51 +1,67 @@
 # ☁️ Cloud-Integrated E-Commerce Big Data Analytics
 
-A cloud-integrated Big Data Analytics project that processes e-commerce sales data using **Amazon S3, AWS EC2, Hadoop HDFS, YARN, Java MapReduce, and Streamlit**.
+> An end-to-end Big Data Analytics project integrating **AWS Cloud, Hadoop, MapReduce, and Streamlit** for e-commerce sales analysis.
 
-The system allows users to upload sales data through a Streamlit dashboard, store it in Amazon S3, process it using Hadoop MapReduce on AWS EC2, and visualize the results through an interactive dashboard.
+## 📌 Overview
+
+This project demonstrates how e-commerce sales data can be stored in the cloud, processed using Hadoop MapReduce, and presented through an interactive web dashboard.
+
+The application uses **Amazon S3** for cloud storage and **AWS EC2** as the processing and deployment environment. Hadoop **HDFS** stores the dataset, **YARN** manages the processing resources, and five Java **MapReduce** programs perform the required analytics.
+
+The final results are displayed through a **Streamlit dashboard**.
 
 ---
 
-## 🚀 Project Workflow
+## 🏗️ System Architecture
 
 ```text
-                User
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    Streamlit    │
-        │    Dashboard    │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    Amazon S3    │
-        │  Cloud Storage  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │     AWS EC2     │
-        │  Ubuntu Server  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    Hadoop HDFS  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │      YARN       │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Java MapReduce  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │    Streamlit    │
-        │   Visualization │
-        └─────────────────┘
+                    ┌──────────────┐
+                    │     User     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                 ┌──────────────────┐
+                 │    Streamlit     │
+                 │    Dashboard     │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    Amazon S3     │
+                 │  Cloud Storage   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │     AWS EC2      │
+                 │  Ubuntu Server   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    Hadoop HDFS   │
+                 │  Data Storage    │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │      YARN        │
+                 │ Resource Manager │
+                 └────────┬─────────┘
+                          │
+                          ▼
+              ┌─────────────────────────┐
+              │    Java MapReduce       │
+              ├─────────────────────────┤
+              │ Product Sales           │
+              │ Category Sales          │
+              │ City Sales              │
+              │ Monthly Sales           │
+              │ Top Products            │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                 ┌──────────────────┐
+                 │    Streamlit     │
+                 │  Visualization   │
+                 └──────────────────┘
